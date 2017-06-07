@@ -1,0 +1,3732 @@
+project-templates:
+  0rpc:
+    branches:
+    - master
+    gitweb: http://github.com/0rpc/%(name)s/commit/%%(sha)s
+    uri: http://github.com/0rpc/%(name)s
+  '0x5e':
+    branches:
+    - master
+    gitweb: http://github.com/0x5e/%(name)s/commit/%%(sha)s
+    uri: http://github.com/0x5e/%(name)s
+  10se1ucgo:
+    branches:
+    - master
+    gitweb: http://github.com/10se1ucgo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/10se1ucgo/%(name)s
+  521xueweihan:
+    branches:
+    - master
+    gitweb: http://github.com/521xueweihan/%(name)s/commit/%%(sha)s
+    uri: http://github.com/521xueweihan/%(name)s
+  AlessandroZ:
+    branches:
+    - master
+    gitweb: http://github.com/AlessandroZ/%(name)s/commit/%%(sha)s
+    uri: http://github.com/AlessandroZ/%(name)s
+  AppScale:
+    branches:
+    - master
+    gitweb: http://github.com/AppScale/%(name)s/commit/%%(sha)s
+    uri: http://github.com/AppScale/%(name)s
+  Bitmessage:
+    branches:
+    - master
+    gitweb: http://github.com/Bitmessage/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Bitmessage/%(name)s
+  ClusterHQ:
+    branches:
+    - master
+    gitweb: http://github.com/ClusterHQ/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ClusterHQ/%(name)s
+  CouchPotato:
+    branches:
+    - master
+    gitweb: http://github.com/CouchPotato/%(name)s/commit/%%(sha)s
+    uri: http://github.com/CouchPotato/%(name)s
+  DanMcInerney:
+    branches:
+    - master
+    gitweb: http://github.com/DanMcInerney/%(name)s/commit/%%(sha)s
+    uri: http://github.com/DanMcInerney/%(name)s
+  Eloston:
+    branches:
+    - master
+    gitweb: http://github.com/Eloston/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Eloston/%(name)s
+  Gallopsled:
+    branches:
+    - dev
+    gitweb: http://github.com/Gallopsled/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Gallopsled/%(name)s
+  Guake:
+    branches:
+    - master
+    gitweb: http://github.com/Guake/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Guake/%(name)s
+  HelloZeroNet:
+    branches:
+    - master
+    gitweb: http://github.com/HelloZeroNet/%(name)s/commit/%%(sha)s
+    uri: http://github.com/HelloZeroNet/%(name)s
+  Hironsan:
+    branches:
+    - master
+    gitweb: http://github.com/Hironsan/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Hironsan/%(name)s
+  HypothesisWorks:
+    branches:
+    - master
+    gitweb: http://github.com/HypothesisWorks/%(name)s/commit/%%(sha)s
+    uri: http://github.com/HypothesisWorks/%(name)s
+  Jahaja:
+    branches:
+    - master
+    gitweb: http://github.com/Jahaja/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Jahaja/%(name)s
+  JakeWharton:
+    branches:
+    - master
+    gitweb: http://github.com/JakeWharton/%(name)s/commit/%%(sha)s
+    uri: http://github.com/JakeWharton/%(name)s
+  JuanPotato:
+    branches:
+    - master
+    gitweb: http://github.com/JuanPotato/%(name)s/commit/%%(sha)s
+    uri: http://github.com/JuanPotato/%(name)s
+  Katee:
+    branches:
+    - master
+    gitweb: http://github.com/Katee/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Katee/%(name)s
+  KeyboardFire:
+    branches:
+    - master
+    gitweb: http://github.com/KeyboardFire/%(name)s/commit/%%(sha)s
+    uri: http://github.com/KeyboardFire/%(name)s
+  Kinto:
+    branches:
+    - master
+    gitweb: http://github.com/Kinto/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Kinto/%(name)s
+  Lasagne:
+    branches:
+    - master
+    gitweb: http://github.com/Lasagne/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Lasagne/%(name)s
+  LewisVo:
+    branches:
+    - master
+    gitweb: http://github.com/LewisVo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/LewisVo/%(name)s
+  MagicStack:
+    branches:
+    - master
+    gitweb: http://github.com/MagicStack/%(name)s/commit/%%(sha)s
+    uri: http://github.com/MagicStack/%(name)s
+  Miserlou:
+    branches:
+    - master
+    gitweb: http://github.com/Miserlou/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Miserlou/%(name)s
+  MobSF:
+    branches:
+    - master
+    gitweb: http://github.com/MobSF/%(name)s/commit/%%(sha)s
+    uri: http://github.com/MobSF/%(name)s
+  MobileChromeApps:
+    branches:
+    - master
+    gitweb: http://github.com/MobileChromeApps/%(name)s/commit/%%(sha)s
+    uri: http://github.com/MobileChromeApps/%(name)s
+  NVIDIA:
+    branches:
+    - master
+    gitweb: http://github.com/NVIDIA/%(name)s/commit/%%(sha)s
+    uri: http://github.com/NVIDIA/%(name)s
+  NervanaSystems:
+    branches:
+    - master
+    gitweb: http://github.com/NervanaSystems/%(name)s/commit/%%(sha)s
+    uri: http://github.com/NervanaSystems/%(name)s
+  Newmu:
+    branches:
+    - master
+    gitweb: http://github.com/Newmu/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Newmu/%(name)s
+  PeterDing:
+    branches:
+    - master
+    gitweb: http://github.com/PeterDing/%(name)s/commit/%%(sha)s
+    uri: http://github.com/PeterDing/%(name)s
+  PokemonGoF:
+    branches:
+    - master
+    gitweb: http://github.com/PokemonGoF/%(name)s/commit/%%(sha)s
+    uri: http://github.com/PokemonGoF/%(name)s
+  PyCQA:
+    branches:
+    - master
+    gitweb: http://github.com/PyCQA/%(name)s/commit/%%(sha)s
+    uri: http://github.com/PyCQA/%(name)s
+  PyMySQL:
+    branches:
+    - master
+    gitweb: http://github.com/PyMySQL/%(name)s/commit/%%(sha)s
+    uri: http://github.com/PyMySQL/%(name)s
+  Pylons:
+    branches:
+    - master
+    gitweb: http://github.com/Pylons/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Pylons/%(name)s
+  Qix-:
+    branches:
+    - master
+    gitweb: http://github.com/Qix-/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Qix-/%(name)s
+  RaRe-Technologies:
+    branches:
+    - develop
+    gitweb: http://github.com/RaRe-Technologies/%(name)s/commit/%%(sha)s
+    uri: http://github.com/RaRe-Technologies/%(name)s
+  Rochester-NRT:
+    branches:
+    - develop
+    gitweb: http://github.com/Rochester-NRT/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Rochester-NRT/%(name)s
+  RocketMap:
+    branches:
+    - develop
+    gitweb: http://github.com/RocketMap/%(name)s/commit/%%(sha)s
+    uri: http://github.com/RocketMap/%(name)s
+  Russell91:
+    branches:
+    - master
+    gitweb: http://github.com/Russell91/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Russell91/%(name)s
+  Shougo:
+    branches:
+    - master
+    gitweb: http://github.com/Shougo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Shougo/%(name)s
+  SideBarEnhancements-org:
+    branches:
+    - st3
+    gitweb: http://github.com/SideBarEnhancements-org/%(name)s/commit/%%(sha)s
+    uri: http://github.com/SideBarEnhancements-org/%(name)s
+  SirVer:
+    branches:
+    - master
+    gitweb: http://github.com/SirVer/%(name)s/commit/%%(sha)s
+    uri: http://github.com/SirVer/%(name)s
+  StackStorm:
+    branches:
+    - master
+    gitweb: http://github.com/StackStorm/%(name)s/commit/%%(sha)s
+    uri: http://github.com/StackStorm/%(name)s
+  SublimeCodeIntel:
+    branches:
+    - master
+    gitweb: http://github.com/SublimeCodeIntel/%(name)s/commit/%%(sha)s
+    uri: http://github.com/SublimeCodeIntel/%(name)s
+  SublimeText-Markdown:
+    branches:
+    - master
+    gitweb: http://github.com/SublimeText-Markdown/%(name)s/commit/%%(sha)s
+    uri: http://github.com/SublimeText-Markdown/%(name)s
+  Supervisor:
+    branches:
+    - master
+    gitweb: http://github.com/Supervisor/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Supervisor/%(name)s
+  Theano:
+    branches:
+    - master
+    gitweb: http://github.com/Theano/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Theano/%(name)s
+  Tribler:
+    branches:
+    - devel
+    gitweb: http://github.com/Tribler/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Tribler/%(name)s
+  USArmyResearchLab:
+    branches:
+    - master
+    gitweb: http://github.com/USArmyResearchLab/%(name)s/commit/%%(sha)s
+    uri: http://github.com/USArmyResearchLab/%(name)s
+  Uberi:
+    branches:
+    - master
+    gitweb: http://github.com/Uberi/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Uberi/%(name)s
+  Urinx:
+    branches:
+    - master
+    gitweb: http://github.com/Urinx/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Urinx/%(name)s
+  Valloric:
+    branches:
+    - master
+    gitweb: http://github.com/Valloric/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Valloric/%(name)s
+  VitaliyRodnenko:
+    branches:
+    - master
+    gitweb: http://github.com/VitaliyRodnenko/%(name)s/commit/%%(sha)s
+    uri: http://github.com/VitaliyRodnenko/%(name)s
+  XX-net:
+    branches:
+    - master
+    gitweb: http://github.com/XX-net/%(name)s/commit/%%(sha)s
+    uri: http://github.com/XX-net/%(name)s
+  Yelp:
+    branches:
+    - master
+    gitweb: http://github.com/Yelp/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Yelp/%(name)s
+  Zulko:
+    branches:
+    - master
+    gitweb: http://github.com/Zulko/%(name)s/commit/%%(sha)s
+    uri: http://github.com/Zulko/%(name)s
+  a1studmuffin:
+    branches:
+    - master
+    gitweb: http://github.com/a1studmuffin/%(name)s/commit/%%(sha)s
+    uri: http://github.com/a1studmuffin/%(name)s
+  adobe-fonts:
+    branches:
+    - master
+    gitweb: http://github.com/adobe-fonts/%(name)s/commit/%%(sha)s
+    uri: http://github.com/adobe-fonts/%(name)s
+  affinelayer:
+    branches:
+    - master
+    gitweb: http://github.com/affinelayer/%(name)s/commit/%%(sha)s
+    uri: http://github.com/affinelayer/%(name)s
+  ageitgey:
+    branches:
+    - master
+    gitweb: http://github.com/ageitgey/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ageitgey/%(name)s
+  aio-libs:
+    branches:
+    - master
+    gitweb: http://github.com/aio-libs/%(name)s/commit/%%(sha)s
+    uri: http://github.com/aio-libs/%(name)s
+  airbnb:
+    branches:
+    - master
+    gitweb: http://github.com/airbnb/%(name)s/commit/%%(sha)s
+    uri: http://github.com/airbnb/%(name)s
+  ajalt:
+    branches:
+    - master
+    gitweb: http://github.com/ajalt/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ajalt/%(name)s
+  ajenti:
+    branches:
+    - 1.x
+    gitweb: http://github.com/ajenti/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ajenti/%(name)s
+  alexjc:
+    branches:
+    - master
+    gitweb: http://github.com/alexjc/%(name)s/commit/%%(sha)s
+    uri: http://github.com/alexjc/%(name)s
+  amoffat:
+    branches:
+    - master
+    gitweb: http://github.com/amoffat/%(name)s/commit/%%(sha)s
+    uri: http://github.com/amoffat/%(name)s
+  amperser:
+    branches:
+    - master
+    gitweb: http://github.com/amperser/%(name)s/commit/%%(sha)s
+    uri: http://github.com/amperser/%(name)s
+  amscanne:
+    branches:
+    - master
+    gitweb: http://github.com/amscanne/%(name)s/commit/%%(sha)s
+    uri: http://github.com/amscanne/%(name)s
+  amueller:
+    branches:
+    - master
+    gitweb: http://github.com/amueller/%(name)s/commit/%%(sha)s
+    uri: http://github.com/amueller/%(name)s
+  andymccurdy:
+    branches:
+    - master
+    gitweb: http://github.com/andymccurdy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/andymccurdy/%(name)s
+  anishathalye:
+    branches:
+    - master
+    gitweb: http://github.com/anishathalye/%(name)s/commit/%%(sha)s
+    uri: http://github.com/anishathalye/%(name)s
+  ansible:
+    branches:
+    - devel
+    gitweb: http://github.com/ansible/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ansible/%(name)s
+  apache:
+    branches:
+    - master
+    gitweb: http://github.com/apache/%(name)s/commit/%%(sha)s
+    uri: http://github.com/apache/%(name)s
+  apenwarr:
+    branches:
+    - master
+    gitweb: http://github.com/apenwarr/%(name)s/commit/%%(sha)s
+    uri: http://github.com/apenwarr/%(name)s
+  apprenticeharper:
+    branches:
+    - master
+    gitweb: http://github.com/apprenticeharper/%(name)s/commit/%%(sha)s
+    uri: http://github.com/apprenticeharper/%(name)s
+  arielf:
+    branches:
+    - master
+    gitweb: http://github.com/arielf/%(name)s/commit/%%(sha)s
+    uri: http://github.com/arielf/%(name)s
+  asciimoo:
+    branches:
+    - master
+    gitweb: http://github.com/asciimoo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/asciimoo/%(name)s
+  asciinema:
+    branches:
+    - master
+    gitweb: http://github.com/asciinema/%(name)s/commit/%%(sha)s
+    uri: http://github.com/asciinema/%(name)s
+  atlassian:
+    branches:
+    - master
+    gitweb: http://github.com/atlassian/%(name)s/commit/%%(sha)s
+    uri: http://github.com/atlassian/%(name)s
+  audreyr:
+    branches:
+    - master
+    gitweb: http://github.com/audreyr/%(name)s/commit/%%(sha)s
+    uri: http://github.com/audreyr/%(name)s
+  avinassh:
+    branches:
+    - master
+    gitweb: http://github.com/avinassh/%(name)s/commit/%%(sha)s
+    uri: http://github.com/avinassh/%(name)s
+  awentzonline:
+    branches:
+    - master
+    gitweb: http://github.com/awentzonline/%(name)s/commit/%%(sha)s
+    uri: http://github.com/awentzonline/%(name)s
+  aws:
+    branches:
+    - develop
+    gitweb: http://github.com/aws/%(name)s/commit/%%(sha)s
+    uri: http://github.com/aws/%(name)s
+  awslabs:
+    branches:
+    - master
+    gitweb: http://github.com/awslabs/%(name)s/commit/%%(sha)s
+    uri: http://github.com/awslabs/%(name)s
+  aziz:
+    branches:
+    - master
+    gitweb: http://github.com/aziz/%(name)s/commit/%%(sha)s
+    uri: http://github.com/aziz/%(name)s
+  banga:
+    branches:
+    - master
+    gitweb: http://github.com/banga/%(name)s/commit/%%(sha)s
+    uri: http://github.com/banga/%(name)s
+  beetbox:
+    branches:
+    - master
+    gitweb: http://github.com/beetbox/%(name)s/commit/%%(sha)s
+    uri: http://github.com/beetbox/%(name)s
+  benoitc:
+    branches:
+    - master
+    gitweb: http://github.com/benoitc/%(name)s/commit/%%(sha)s
+    uri: http://github.com/benoitc/%(name)s
+  binux:
+    branches:
+    - master
+    gitweb: http://github.com/binux/%(name)s/commit/%%(sha)s
+    uri: http://github.com/binux/%(name)s
+  blaze:
+    branches:
+    - master
+    gitweb: http://github.com/blaze/%(name)s/commit/%%(sha)s
+    uri: http://github.com/blaze/%(name)s
+  bokeh:
+    branches:
+    - master
+    gitweb: http://github.com/bokeh/%(name)s/commit/%%(sha)s
+    uri: http://github.com/bokeh/%(name)s
+  borgbackup:
+    branches:
+    - master
+    gitweb: http://github.com/borgbackup/%(name)s/commit/%%(sha)s
+    uri: http://github.com/borgbackup/%(name)s
+  boto:
+    branches:
+    - develop
+    gitweb: http://github.com/boto/%(name)s/commit/%%(sha)s
+    uri: http://github.com/boto/%(name)s
+  bottlepy:
+    branches:
+    - master
+    gitweb: http://github.com/bottlepy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/bottlepy/%(name)s
+  buildbot:
+    branches:
+    - master
+    gitweb: http://github.com/buildbot/%(name)s/commit/%%(sha)s
+    uri: http://github.com/buildbot/%(name)s
+  bup:
+    branches:
+    - master
+    gitweb: http://github.com/bup/%(name)s/commit/%%(sha)s
+    uri: http://github.com/bup/%(name)s
+  burnash:
+    branches:
+    - master
+    gitweb: http://github.com/burnash/%(name)s/commit/%%(sha)s
+    uri: http://github.com/burnash/%(name)s
+  byt3bl33d3r:
+    branches:
+    - master
+    gitweb: http://github.com/byt3bl33d3r/%(name)s/commit/%%(sha)s
+    uri: http://github.com/byt3bl33d3r/%(name)s
+  carltongibson:
+    branches:
+    - develop
+    gitweb: http://github.com/carltongibson/%(name)s/commit/%%(sha)s
+    uri: http://github.com/carltongibson/%(name)s
+  celery:
+    branches:
+    - master
+    gitweb: http://github.com/celery/%(name)s/commit/%%(sha)s
+    uri: http://github.com/celery/%(name)s
+  certbot:
+    branches:
+    - master
+    gitweb: http://github.com/certbot/%(name)s/commit/%%(sha)s
+    uri: http://github.com/certbot/%(name)s
+  chainer:
+    branches:
+    - master
+    gitweb: http://github.com/chainer/%(name)s/commit/%%(sha)s
+    uri: http://github.com/chainer/%(name)s
+  channelcat:
+    branches:
+    - master
+    gitweb: http://github.com/channelcat/%(name)s/commit/%%(sha)s
+    uri: http://github.com/channelcat/%(name)s
+  chaosbot:
+    branches:
+    - master
+    gitweb: http://github.com/chaosbot/%(name)s/commit/%%(sha)s
+    uri: http://github.com/chaosbot/%(name)s
+  chrippa:
+    branches:
+    - develop
+    gitweb: http://github.com/chrippa/%(name)s/commit/%%(sha)s
+    uri: http://github.com/chrippa/%(name)s
+  chrisallenlane:
+    branches:
+    - master
+    gitweb: http://github.com/chrisallenlane/%(name)s/commit/%%(sha)s
+    uri: http://github.com/chrisallenlane/%(name)s
+  chriskiehl:
+    branches:
+    - master
+    gitweb: http://github.com/chriskiehl/%(name)s/commit/%%(sha)s
+    uri: http://github.com/chriskiehl/%(name)s
+  chrissimpkins:
+    branches:
+    - master
+    gitweb: http://github.com/chrissimpkins/%(name)s/commit/%%(sha)s
+    uri: http://github.com/chrissimpkins/%(name)s
+  christabor:
+    branches:
+    - master
+    gitweb: http://github.com/christabor/%(name)s/commit/%%(sha)s
+    uri: http://github.com/christabor/%(name)s
+  chubin:
+    branches:
+    - master
+    gitweb: http://github.com/chubin/%(name)s/commit/%%(sha)s
+    uri: http://github.com/chubin/%(name)s
+  clips:
+    branches:
+    - master
+    gitweb: http://github.com/clips/%(name)s/commit/%%(sha)s
+    uri: http://github.com/clips/%(name)s
+  cloudera:
+    branches:
+    - master
+    gitweb: http://github.com/cloudera/%(name)s/commit/%%(sha)s
+    uri: http://github.com/cloudera/%(name)s
+  cloudtools:
+    branches:
+    - master
+    gitweb: http://github.com/cloudtools/%(name)s/commit/%%(sha)s
+    uri: http://github.com/cloudtools/%(name)s
+  codelucas:
+    branches:
+    - master
+    gitweb: http://github.com/codelucas/%(name)s/commit/%%(sha)s
+    uri: http://github.com/codelucas/%(name)s
+  coleifer:
+    branches:
+    - master
+    gitweb: http://github.com/coleifer/%(name)s/commit/%%(sha)s
+    uri: http://github.com/coleifer/%(name)s
+  commaai:
+    branches:
+    - master
+    gitweb: http://github.com/commaai/%(name)s/commit/%%(sha)s
+    uri: http://github.com/commaai/%(name)s
+  coursera-dl:
+    branches:
+    - master
+    gitweb: http://github.com/coursera-dl/%(name)s/commit/%%(sha)s
+    uri: http://github.com/coursera-dl/%(name)s
+  crsmithdev:
+    branches:
+    - master
+    gitweb: http://github.com/crsmithdev/%(name)s/commit/%%(sha)s
+    uri: http://github.com/crsmithdev/%(name)s
+  cyrus-and:
+    branches:
+    - master
+    gitweb: http://github.com/cyrus-and/%(name)s/commit/%%(sha)s
+    uri: http://github.com/cyrus-and/%(name)s
+  cython:
+    branches:
+    - master
+    gitweb: http://github.com/cython/%(name)s/commit/%%(sha)s
+    uri: http://github.com/cython/%(name)s
+  dabeaz:
+    branches:
+    - master
+    gitweb: http://github.com/dabeaz/%(name)s/commit/%%(sha)s
+    uri: http://github.com/dabeaz/%(name)s
+  dae:
+    branches:
+    - master
+    gitweb: http://github.com/dae/%(name)s/commit/%%(sha)s
+    uri: http://github.com/dae/%(name)s
+  darknessomi:
+    branches:
+    - master
+    gitweb: http://github.com/darknessomi/%(name)s/commit/%%(sha)s
+    uri: http://github.com/darknessomi/%(name)s
+  david-gpu:
+    branches:
+    - master
+    gitweb: http://github.com/david-gpu/%(name)s/commit/%%(sha)s
+    uri: http://github.com/david-gpu/%(name)s
+  davidhalter:
+    branches:
+    - master
+    gitweb: http://github.com/davidhalter/%(name)s/commit/%%(sha)s
+    uri: http://github.com/davidhalter/%(name)s
+  dbader:
+    branches:
+    - master
+    gitweb: http://github.com/dbader/%(name)s/commit/%%(sha)s
+    uri: http://github.com/dbader/%(name)s
+  dbcli:
+    branches:
+    - master
+    gitweb: http://github.com/dbcli/%(name)s/commit/%%(sha)s
+    uri: http://github.com/dbcli/%(name)s
+  deepmind:
+    branches:
+    - master
+    gitweb: http://github.com/deepmind/%(name)s/commit/%%(sha)s
+    uri: http://github.com/deepmind/%(name)s
+  deis:
+    branches:
+    - master
+    gitweb: http://github.com/deis/%(name)s/commit/%%(sha)s
+    uri: http://github.com/deis/%(name)s
+  detailyang:
+    branches:
+    - master
+    gitweb: http://github.com/detailyang/%(name)s/commit/%%(sha)s
+    uri: http://github.com/detailyang/%(name)s
+  devstructure:
+    branches:
+    - master
+    gitweb: http://github.com/devstructure/%(name)s/commit/%%(sha)s
+    uri: http://github.com/devstructure/%(name)s
+  devttys0:
+    branches:
+    - master
+    gitweb: http://github.com/devttys0/%(name)s/commit/%%(sha)s
+    uri: http://github.com/devttys0/%(name)s
+  diafygi:
+    branches:
+    - master
+    gitweb: http://github.com/diafygi/%(name)s/commit/%%(sha)s
+    uri: http://github.com/diafygi/%(name)s
+  digitalocean:
+    branches:
+    - develop
+    gitweb: http://github.com/digitalocean/%(name)s/commit/%%(sha)s
+    uri: http://github.com/digitalocean/%(name)s
+  divio:
+    branches:
+    - release/3.4.x
+    gitweb: http://github.com/divio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/divio/%(name)s
+  djaiss:
+    branches:
+    - master
+    gitweb: http://github.com/djaiss/%(name)s/commit/%%(sha)s
+    uri: http://github.com/djaiss/%(name)s
+  django:
+    branches:
+    - master
+    gitweb: http://github.com/django/%(name)s/commit/%%(sha)s
+    uri: http://github.com/django/%(name)s
+  django-compressor:
+    branches:
+    - develop
+    gitweb: http://github.com/django-compressor/%(name)s/commit/%%(sha)s
+    uri: http://github.com/django-compressor/%(name)s
+  django-crispy-forms:
+    branches:
+    - dev
+    gitweb: http://github.com/django-crispy-forms/%(name)s/commit/%%(sha)s
+    uri: http://github.com/django-crispy-forms/%(name)s
+  django-extensions:
+    branches:
+    - master
+    gitweb: http://github.com/django-extensions/%(name)s/commit/%%(sha)s
+    uri: http://github.com/django-extensions/%(name)s
+  django-haystack:
+    branches:
+    - master
+    gitweb: http://github.com/django-haystack/%(name)s/commit/%%(sha)s
+    uri: http://github.com/django-haystack/%(name)s
+  django-oscar:
+    branches:
+    - master
+    gitweb: http://github.com/django-oscar/%(name)s/commit/%%(sha)s
+    uri: http://github.com/django-oscar/%(name)s
+  django-tastypie:
+    branches:
+    - master
+    gitweb: http://github.com/django-tastypie/%(name)s/commit/%%(sha)s
+    uri: http://github.com/django-tastypie/%(name)s
+  docker:
+    branches:
+    - master
+    gitweb: http://github.com/docker/%(name)s/commit/%%(sha)s
+    uri: http://github.com/docker/%(name)s
+  docopt:
+    branches:
+    - master
+    gitweb: http://github.com/docopt/%(name)s/commit/%%(sha)s
+    uri: http://github.com/docopt/%(name)s
+  donnemartin:
+    branches:
+    - master
+    gitweb: http://github.com/donnemartin/%(name)s/commit/%%(sha)s
+    uri: http://github.com/donnemartin/%(name)s
+  douban:
+    branches:
+    - master
+    gitweb: http://github.com/douban/%(name)s/commit/%%(sha)s
+    uri: http://github.com/douban/%(name)s
+  drduh:
+    branches:
+    - master
+    gitweb: http://github.com/drduh/%(name)s/commit/%%(sha)s
+    uri: http://github.com/drduh/%(name)s
+  dropbox:
+    branches:
+    - master
+    gitweb: http://github.com/dropbox/%(name)s/commit/%%(sha)s
+    uri: http://github.com/dropbox/%(name)s
+  dschep:
+    branches:
+    - master
+    gitweb: http://github.com/dschep/%(name)s/commit/%%(sha)s
+    uri: http://github.com/dschep/%(name)s
+  dyve:
+    branches:
+    - develop
+    gitweb: http://github.com/dyve/%(name)s/commit/%%(sha)s
+    uri: http://github.com/dyve/%(name)s
+  eastlakeside:
+    branches:
+    - master
+    gitweb: http://github.com/eastlakeside/%(name)s/commit/%%(sha)s
+    uri: http://github.com/eastlakeside/%(name)s
+  edx:
+    branches:
+    - master
+    gitweb: http://github.com/edx/%(name)s/commit/%%(sha)s
+    uri: http://github.com/edx/%(name)s
+  eliangcs:
+    branches:
+    - master
+    gitweb: http://github.com/eliangcs/%(name)s/commit/%%(sha)s
+    uri: http://github.com/eliangcs/%(name)s
+  emirozer:
+    branches:
+    - master
+    gitweb: http://github.com/emirozer/%(name)s/commit/%%(sha)s
+    uri: http://github.com/emirozer/%(name)s
+  emre:
+    branches:
+    - master
+    gitweb: http://github.com/emre/%(name)s/commit/%%(sha)s
+    uri: http://github.com/emre/%(name)s
+  encode:
+    branches:
+    - master
+    gitweb: http://github.com/encode/%(name)s/commit/%%(sha)s
+    uri: http://github.com/encode/%(name)s
+  equinusocio:
+    branches:
+    - develop
+    gitweb: http://github.com/equinusocio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/equinusocio/%(name)s
+  eriklindernoren:
+    branches:
+    - master
+    gitweb: http://github.com/eriklindernoren/%(name)s/commit/%%(sha)s
+    uri: http://github.com/eriklindernoren/%(name)s
+  etianen:
+    branches:
+    - master
+    gitweb: http://github.com/etianen/%(name)s/commit/%%(sha)s
+    uri: http://github.com/etianen/%(name)s
+  etsy:
+    branches:
+    - master
+    gitweb: http://github.com/etsy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/etsy/%(name)s
+  eudicots:
+    branches:
+    - master
+    gitweb: http://github.com/eudicots/%(name)s/commit/%%(sha)s
+    uri: http://github.com/eudicots/%(name)s
+  euske:
+    branches:
+    - master
+    gitweb: http://github.com/euske/%(name)s/commit/%%(sha)s
+    uri: http://github.com/euske/%(name)s
+  evilsocket:
+    branches:
+    - master
+    gitweb: http://github.com/evilsocket/%(name)s/commit/%%(sha)s
+    uri: http://github.com/evilsocket/%(name)s
+  explosion:
+    branches:
+    - master
+    gitweb: http://github.com/explosion/%(name)s/commit/%%(sha)s
+    uri: http://github.com/explosion/%(name)s
+  fabric:
+    branches:
+    - master
+    gitweb: http://github.com/fabric/%(name)s/commit/%%(sha)s
+    uri: http://github.com/fabric/%(name)s
+  facebook:
+    branches:
+    - master
+    gitweb: http://github.com/facebook/%(name)s/commit/%%(sha)s
+    uri: http://github.com/facebook/%(name)s
+  facebookarchive:
+    branches:
+    - master
+    gitweb: http://github.com/facebookarchive/%(name)s/commit/%%(sha)s
+    uri: http://github.com/facebookarchive/%(name)s
+  facebookincubator:
+    branches:
+    - master
+    gitweb: http://github.com/facebookincubator/%(name)s/commit/%%(sha)s
+    uri: http://github.com/facebookincubator/%(name)s
+  facebookresearch:
+    branches:
+    - master
+    gitweb: http://github.com/facebookresearch/%(name)s/commit/%%(sha)s
+    uri: http://github.com/facebookresearch/%(name)s
+  faif:
+    branches:
+    - master
+    gitweb: http://github.com/faif/%(name)s/commit/%%(sha)s
+    uri: http://github.com/faif/%(name)s
+  fail2ban:
+    branches:
+    - '0.10'
+    gitweb: http://github.com/fail2ban/%(name)s/commit/%%(sha)s
+    uri: http://github.com/fail2ban/%(name)s
+  falconry:
+    branches:
+    - master
+    gitweb: http://github.com/falconry/%(name)s/commit/%%(sha)s
+    uri: http://github.com/falconry/%(name)s
+  fastmonkeys:
+    branches:
+    - master
+    gitweb: http://github.com/fastmonkeys/%(name)s/commit/%%(sha)s
+    uri: http://github.com/fastmonkeys/%(name)s
+  fchollet:
+    branches:
+    - master
+    gitweb: http://github.com/fchollet/%(name)s/commit/%%(sha)s
+    uri: http://github.com/fchollet/%(name)s
+  feross:
+    branches:
+    - master
+    gitweb: http://github.com/feross/%(name)s/commit/%%(sha)s
+    uri: http://github.com/feross/%(name)s
+  fivesheep:
+    branches:
+    - master
+    gitweb: http://github.com/fivesheep/%(name)s/commit/%%(sha)s
+    uri: http://github.com/fivesheep/%(name)s
+  flask-admin:
+    branches:
+    - master
+    gitweb: http://github.com/flask-admin/%(name)s/commit/%%(sha)s
+    uri: http://github.com/flask-admin/%(name)s
+  flask-restful:
+    branches:
+    - master
+    gitweb: http://github.com/flask-restful/%(name)s/commit/%%(sha)s
+    uri: http://github.com/flask-restful/%(name)s
+  floydhub:
+    branches:
+    - master
+    gitweb: http://github.com/floydhub/%(name)s/commit/%%(sha)s
+    uri: http://github.com/floydhub/%(name)s
+  fogleman:
+    branches:
+    - master
+    gitweb: http://github.com/fogleman/%(name)s/commit/%%(sha)s
+    uri: http://github.com/fogleman/%(name)s
+  frappe:
+    branches:
+    - develop
+    gitweb: http://github.com/frappe/%(name)s/commit/%%(sha)s
+    uri: http://github.com/frappe/%(name)s
+  freedomofpress:
+    branches:
+    - develop
+    gitweb: http://github.com/freedomofpress/%(name)s/commit/%%(sha)s
+    uri: http://github.com/freedomofpress/%(name)s
+  fxsjy:
+    branches:
+    - master
+    gitweb: http://github.com/fxsjy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/fxsjy/%(name)s
+  gaubert:
+    branches:
+    - master
+    gitweb: http://github.com/gaubert/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gaubert/%(name)s
+  geekcomputers:
+    branches:
+    - master
+    gitweb: http://github.com/geekcomputers/%(name)s/commit/%%(sha)s
+    uri: http://github.com/geekcomputers/%(name)s
+  gelstudios:
+    branches:
+    - master
+    gitweb: http://github.com/gelstudios/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gelstudios/%(name)s
+  getpelican:
+    branches:
+    - master
+    gitweb: http://github.com/getpelican/%(name)s/commit/%%(sha)s
+    uri: http://github.com/getpelican/%(name)s
+  getredash:
+    branches:
+    - master
+    gitweb: http://github.com/getredash/%(name)s/commit/%%(sha)s
+    uri: http://github.com/getredash/%(name)s
+  getsentry:
+    branches:
+    - master
+    gitweb: http://github.com/getsentry/%(name)s/commit/%%(sha)s
+    uri: http://github.com/getsentry/%(name)s
+  gevent:
+    branches:
+    - master
+    gitweb: http://github.com/gevent/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gevent/%(name)s
+  giampaolo:
+    branches:
+    - master
+    gitweb: http://github.com/giampaolo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/giampaolo/%(name)s
+  gleitz:
+    branches:
+    - master
+    gitweb: http://github.com/gleitz/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gleitz/%(name)s
+  gnemoug:
+    branches:
+    - master
+    gitweb: http://github.com/gnemoug/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gnemoug/%(name)s
+  gongjianhui:
+    branches:
+    - master
+    gitweb: http://github.com/gongjianhui/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gongjianhui/%(name)s
+  google:
+    branches:
+    - dev
+    gitweb: http://github.com/google/%(name)s/commit/%%(sha)s
+    uri: http://github.com/google/%(name)s
+  gorakhargosh:
+    branches:
+    - master
+    gitweb: http://github.com/gorakhargosh/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gorakhargosh/%(name)s
+  graphific:
+    branches:
+    - master
+    gitweb: http://github.com/graphific/%(name)s/commit/%%(sha)s
+    uri: http://github.com/graphific/%(name)s
+  graphql-python:
+    branches:
+    - master
+    gitweb: http://github.com/graphql-python/%(name)s/commit/%%(sha)s
+    uri: http://github.com/graphql-python/%(name)s
+  gregmalcolm:
+    branches:
+    - master
+    gitweb: http://github.com/gregmalcolm/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gregmalcolm/%(name)s
+  gunthercox:
+    branches:
+    - master
+    gitweb: http://github.com/gunthercox/%(name)s/commit/%%(sha)s
+    uri: http://github.com/gunthercox/%(name)s
+  hanc00l:
+    branches:
+    - master
+    gitweb: http://github.com/hanc00l/%(name)s/commit/%%(sha)s
+    uri: http://github.com/hanc00l/%(name)s
+  harelba:
+    branches:
+    - master
+    gitweb: http://github.com/harelba/%(name)s/commit/%%(sha)s
+    uri: http://github.com/harelba/%(name)s
+  hephaest0s:
+    branches:
+    - master
+    gitweb: http://github.com/hephaest0s/%(name)s/commit/%%(sha)s
+    uri: http://github.com/hephaest0s/%(name)s
+  hhatto:
+    branches:
+    - master
+    gitweb: http://github.com/hhatto/%(name)s/commit/%%(sha)s
+    uri: http://github.com/hhatto/%(name)s
+  home-assistant:
+    branches:
+    - dev
+    gitweb: http://github.com/home-assistant/%(name)s/commit/%%(sha)s
+    uri: http://github.com/home-assistant/%(name)s
+  honza:
+    branches:
+    - master
+    gitweb: http://github.com/honza/%(name)s/commit/%%(sha)s
+    uri: http://github.com/honza/%(name)s
+  houtianze:
+    branches:
+    - master
+    gitweb: http://github.com/houtianze/%(name)s/commit/%%(sha)s
+    uri: http://github.com/houtianze/%(name)s
+  humphd:
+    branches:
+    - master
+    gitweb: http://github.com/humphd/%(name)s/commit/%%(sha)s
+    uri: http://github.com/humphd/%(name)s
+  huntergregal:
+    branches:
+    - master
+    gitweb: http://github.com/huntergregal/%(name)s/commit/%%(sha)s
+    uri: http://github.com/huntergregal/%(name)s
+  hylang:
+    branches:
+    - master
+    gitweb: http://github.com/hylang/%(name)s/commit/%%(sha)s
+    uri: http://github.com/hylang/%(name)s
+  i-tu:
+    branches:
+    - master
+    gitweb: http://github.com/i-tu/%(name)s/commit/%%(sha)s
+    uri: http://github.com/i-tu/%(name)s
+  iBaa:
+    branches:
+    - master
+    gitweb: http://github.com/iBaa/%(name)s/commit/%%(sha)s
+    uri: http://github.com/iBaa/%(name)s
+  iambus:
+    branches:
+    - master
+    gitweb: http://github.com/iambus/%(name)s/commit/%%(sha)s
+    uri: http://github.com/iambus/%(name)s
+  ibab:
+    branches:
+    - master
+    gitweb: http://github.com/ibab/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ibab/%(name)s
+  idank:
+    branches:
+    - master
+    gitweb: http://github.com/idank/%(name)s/commit/%%(sha)s
+    uri: http://github.com/idank/%(name)s
+  ipython:
+    branches:
+    - master
+    gitweb: http://github.com/ipython/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ipython/%(name)s
+  isnowfy:
+    branches:
+    - master
+    gitweb: http://github.com/isnowfy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/isnowfy/%(name)s
+  isocpp:
+    branches:
+    - master
+    gitweb: http://github.com/isocpp/%(name)s/commit/%%(sha)s
+    uri: http://github.com/isocpp/%(name)s
+  jakubroztocil:
+    branches:
+    - master
+    gitweb: http://github.com/jakubroztocil/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jakubroztocil/%(name)s
+  jasperproject:
+    branches:
+    - master
+    gitweb: http://github.com/jasperproject/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jasperproject/%(name)s
+  jayfk:
+    branches:
+    - master
+    gitweb: http://github.com/jayfk/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jayfk/%(name)s
+  jazzband:
+    branches:
+    - master
+    gitweb: http://github.com/jazzband/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jazzband/%(name)s
+  jeanphix:
+    branches:
+    - dev
+    gitweb: http://github.com/jeanphix/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jeanphix/%(name)s
+  jeffkaufman:
+    branches:
+    - master
+    gitweb: http://github.com/jeffkaufman/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jeffkaufman/%(name)s
+  jeffknupp:
+    branches:
+    - develop
+    gitweb: http://github.com/jeffknupp/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jeffknupp/%(name)s
+  jgm:
+    branches:
+    - master
+    gitweb: http://github.com/jgm/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jgm/%(name)s
+  jiaaro:
+    branches:
+    - master
+    gitweb: http://github.com/jiaaro/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jiaaro/%(name)s
+  jisaacks:
+    branches:
+    - master
+    gitweb: http://github.com/jisaacks/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jisaacks/%(name)s
+  jmcarp:
+    branches:
+    - master
+    gitweb: http://github.com/jmcarp/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jmcarp/%(name)s
+  joelgrus:
+    branches:
+    - master
+    gitweb: http://github.com/joelgrus/%(name)s/commit/%%(sha)s
+    uri: http://github.com/joelgrus/%(name)s
+  joestump:
+    branches:
+    - master
+    gitweb: http://github.com/joestump/%(name)s/commit/%%(sha)s
+    uri: http://github.com/joestump/%(name)s
+  joke2k:
+    branches:
+    - master
+    gitweb: http://github.com/joke2k/%(name)s/commit/%%(sha)s
+    uri: http://github.com/joke2k/%(name)s
+  jokkedk:
+    branches:
+    - master
+    gitweb: http://github.com/jokkedk/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jokkedk/%(name)s
+  jonathanslenders:
+    branches:
+    - master
+    gitweb: http://github.com/jonathanslenders/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jonathanslenders/%(name)s
+  jopohl:
+    branches:
+    - master
+    gitweb: http://github.com/jopohl/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jopohl/%(name)s
+  jorgebastida:
+    branches:
+    - master
+    gitweb: http://github.com/jorgebastida/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jorgebastida/%(name)s
+  josephmisiti:
+    branches:
+    - master
+    gitweb: http://github.com/josephmisiti/%(name)s/commit/%%(sha)s
+    uri: http://github.com/josephmisiti/%(name)s
+  joshnewlan:
+    branches:
+    - master
+    gitweb: http://github.com/joshnewlan/%(name)s/commit/%%(sha)s
+    uri: http://github.com/joshnewlan/%(name)s
+  jostmey:
+    branches:
+    - master
+    gitweb: http://github.com/jostmey/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jostmey/%(name)s
+  jsvine:
+    branches:
+    - master
+    gitweb: http://github.com/jsvine/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jsvine/%(name)s
+  junyanz:
+    branches:
+    - master
+    gitweb: http://github.com/junyanz/%(name)s/commit/%%(sha)s
+    uri: http://github.com/junyanz/%(name)s
+  jupyterhub:
+    branches:
+    - master
+    gitweb: http://github.com/jupyterhub/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jupyterhub/%(name)s
+  jwilder:
+    branches:
+    - master
+    gitweb: http://github.com/jwilder/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jwilder/%(name)s
+  kachayev:
+    branches:
+    - master
+    gitweb: http://github.com/kachayev/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kachayev/%(name)s
+  kamyu104:
+    branches:
+    - master
+    gitweb: http://github.com/kamyu104/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kamyu104/%(name)s
+  karpathy:
+    branches:
+    - master
+    gitweb: http://github.com/karpathy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/karpathy/%(name)s
+  kbengine:
+    branches:
+    - master
+    gitweb: http://github.com/kbengine/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kbengine/%(name)s
+  kemayo:
+    branches:
+    - master
+    gitweb: http://github.com/kemayo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kemayo/%(name)s
+  kennethreitz:
+    branches:
+    - master
+    gitweb: http://github.com/kennethreitz/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kennethreitz/%(name)s
+  keon:
+    branches:
+    - master
+    gitweb: http://github.com/keon/%(name)s/commit/%%(sha)s
+    uri: http://github.com/keon/%(name)s
+  kivy:
+    branches:
+    - master
+    gitweb: http://github.com/kivy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kivy/%(name)s
+  kootenpv:
+    branches:
+    - master
+    gitweb: http://github.com/kootenpv/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kootenpv/%(name)s
+  kovidgoyal:
+    branches:
+    - master
+    gitweb: http://github.com/kovidgoyal/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kovidgoyal/%(name)s
+  kstenerud:
+    branches:
+    - master
+    gitweb: http://github.com/kstenerud/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kstenerud/%(name)s
+  kylemcdonald:
+    branches:
+    - master
+    gitweb: http://github.com/kylemcdonald/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kylemcdonald/%(name)s
+  larsenwork:
+    branches:
+    - master
+    gitweb: http://github.com/larsenwork/%(name)s/commit/%%(sha)s
+    uri: http://github.com/larsenwork/%(name)s
+  lauris:
+    branches:
+    - master
+    gitweb: http://github.com/lauris/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lauris/%(name)s
+  lbryio:
+    branches:
+    - master
+    gitweb: http://github.com/lbryio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lbryio/%(name)s
+  lebinh:
+    branches:
+    - master
+    gitweb: http://github.com/lebinh/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lebinh/%(name)s
+  lektor:
+    branches:
+    - master
+    gitweb: http://github.com/lektor/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lektor/%(name)s
+  lengstrom:
+    branches:
+    - master
+    gitweb: http://github.com/lengstrom/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lengstrom/%(name)s
+  lihaoyi:
+    branches:
+    - master
+    gitweb: http://github.com/lihaoyi/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lihaoyi/%(name)s
+  lisa-lab:
+    branches:
+    - master
+    gitweb: http://github.com/lisa-lab/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lisa-lab/%(name)s
+  littlecodersh:
+    branches:
+    - master
+    gitweb: http://github.com/littlecodersh/%(name)s/commit/%%(sha)s
+    uri: http://github.com/littlecodersh/%(name)s
+  liuwons:
+    branches:
+    - master
+    gitweb: http://github.com/liuwons/%(name)s/commit/%%(sha)s
+    uri: http://github.com/liuwons/%(name)s
+  livid:
+    branches:
+    - master
+    gitweb: http://github.com/livid/%(name)s/commit/%%(sha)s
+    uri: http://github.com/livid/%(name)s
+  lk-geimfari:
+    branches:
+    - master
+    gitweb: http://github.com/lk-geimfari/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lk-geimfari/%(name)s
+  locustio:
+    branches:
+    - master
+    gitweb: http://github.com/locustio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/locustio/%(name)s
+  longld:
+    branches:
+    - master
+    gitweb: http://github.com/longld/%(name)s/commit/%%(sha)s
+    uri: http://github.com/longld/%(name)s
+  lra:
+    branches:
+    - master
+    gitweb: http://github.com/lra/%(name)s/commit/%%(sha)s
+    uri: http://github.com/lra/%(name)s
+  maebert:
+    branches:
+    - master
+    gitweb: http://github.com/maebert/%(name)s/commit/%%(sha)s
+    uri: http://github.com/maebert/%(name)s
+  mahmoud:
+    branches:
+    - master
+    gitweb: http://github.com/mahmoud/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mahmoud/%(name)s
+  mail-in-a-box:
+    branches:
+    - master
+    gitweb: http://github.com/mail-in-a-box/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mail-in-a-box/%(name)s
+  mailpile:
+    branches:
+    - master
+    gitweb: http://github.com/mailpile/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mailpile/%(name)s
+  mantl:
+    branches:
+    - master
+    gitweb: http://github.com/mantl/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mantl/%(name)s
+  martinblech:
+    branches:
+    - master
+    gitweb: http://github.com/martinblech/%(name)s/commit/%%(sha)s
+    uri: http://github.com/martinblech/%(name)s
+  matplotlib:
+    branches:
+    - master
+    gitweb: http://github.com/matplotlib/%(name)s/commit/%%(sha)s
+    uri: http://github.com/matplotlib/%(name)s
+  matrix-org:
+    branches:
+    - master
+    gitweb: http://github.com/matrix-org/%(name)s/commit/%%(sha)s
+    uri: http://github.com/matrix-org/%(name)s
+  maxbbraun:
+    branches:
+    - master
+    gitweb: http://github.com/maxbbraun/%(name)s/commit/%%(sha)s
+    uri: http://github.com/maxbbraun/%(name)s
+  mchristopher:
+    branches:
+    - master
+    gitweb: http://github.com/mchristopher/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mchristopher/%(name)s
+  mher:
+    branches:
+    - master
+    gitweb: http://github.com/mher/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mher/%(name)s
+  micahflee:
+    branches:
+    - master
+    gitweb: http://github.com/micahflee/%(name)s/commit/%%(sha)s
+    uri: http://github.com/micahflee/%(name)s
+  midgetspy:
+    branches:
+    - development
+    gitweb: http://github.com/midgetspy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/midgetspy/%(name)s
+  miguelgrinberg:
+    branches:
+    - master
+    gitweb: http://github.com/miguelgrinberg/%(name)s/commit/%%(sha)s
+    uri: http://github.com/miguelgrinberg/%(name)s
+  miloyip:
+    branches:
+    - master
+    gitweb: http://github.com/miloyip/%(name)s/commit/%%(sha)s
+    uri: http://github.com/miloyip/%(name)s
+  minimaxir:
+    branches:
+    - master
+    gitweb: http://github.com/minimaxir/%(name)s/commit/%%(sha)s
+    uri: http://github.com/minimaxir/%(name)s
+  mininet:
+    branches:
+    - master
+    gitweb: http://github.com/mininet/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mininet/%(name)s
+  misterch0c:
+    branches:
+    - master
+    gitweb: http://github.com/misterch0c/%(name)s/commit/%%(sha)s
+    uri: http://github.com/misterch0c/%(name)s
+  mitmproxy:
+    branches:
+    - master
+    gitweb: http://github.com/mitmproxy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mitmproxy/%(name)s
+  mkdocs:
+    branches:
+    - master
+    gitweb: http://github.com/mkdocs/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mkdocs/%(name)s
+  mnielsen:
+    branches:
+    - master
+    gitweb: http://github.com/mnielsen/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mnielsen/%(name)s
+  mobolic:
+    branches:
+    - master
+    gitweb: http://github.com/mobolic/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mobolic/%(name)s
+  mongodb:
+    branches:
+    - master
+    gitweb: http://github.com/mongodb/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mongodb/%(name)s
+  mooz:
+    branches:
+    - master
+    gitweb: http://github.com/mooz/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mooz/%(name)s
+  mopidy:
+    branches:
+    - develop
+    gitweb: http://github.com/mopidy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mopidy/%(name)s
+  mps-youtube:
+    branches:
+    - develop
+    gitweb: http://github.com/mps-youtube/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mps-youtube/%(name)s
+  mwaskom:
+    branches:
+    - master
+    gitweb: http://github.com/mwaskom/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mwaskom/%(name)s
+  n1nj4sec:
+    branches:
+    - master
+    gitweb: http://github.com/n1nj4sec/%(name)s/commit/%%(sha)s
+    uri: http://github.com/n1nj4sec/%(name)s
+  nate-parrott:
+    branches:
+    - master
+    gitweb: http://github.com/nate-parrott/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nate-parrott/%(name)s
+  networkx:
+    branches:
+    - master
+    gitweb: http://github.com/networkx/%(name)s/commit/%%(sha)s
+    uri: http://github.com/networkx/%(name)s
+  newsapps:
+    branches:
+    - master
+    gitweb: http://github.com/newsapps/%(name)s/commit/%%(sha)s
+    uri: http://github.com/newsapps/%(name)s
+  nicolargo:
+    branches:
+    - master
+    gitweb: http://github.com/nicolargo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nicolargo/%(name)s
+  nltk:
+    branches:
+    - develop
+    gitweb: http://github.com/nltk/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nltk/%(name)s
+  noamraph:
+    branches:
+    - master
+    gitweb: http://github.com/noamraph/%(name)s/commit/%%(sha)s
+    uri: http://github.com/noamraph/%(name)s
+  nodejs:
+    branches:
+    - master
+    gitweb: http://github.com/nodejs/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nodejs/%(name)s
+  nryoung:
+    branches:
+    - master
+    gitweb: http://github.com/nryoung/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nryoung/%(name)s
+  numba:
+    branches:
+    - master
+    gitweb: http://github.com/numba/%(name)s/commit/%%(sha)s
+    uri: http://github.com/numba/%(name)s
+  numenta:
+    branches:
+    - master
+    gitweb: http://github.com/numenta/%(name)s/commit/%%(sha)s
+    uri: http://github.com/numenta/%(name)s
+  nvbn:
+    branches:
+    - master
+    gitweb: http://github.com/nvbn/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nvbn/%(name)s
+  nvdv:
+    branches:
+    - master
+    gitweb: http://github.com/nvdv/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nvdv/%(name)s
+  nvie:
+    branches:
+    - master
+    gitweb: http://github.com/nvie/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nvie/%(name)s
+  nylas:
+    branches:
+    - master
+    gitweb: http://github.com/nylas/%(name)s/commit/%%(sha)s
+    uri: http://github.com/nylas/%(name)s
+  odoo:
+    branches:
+    - '10.0'
+    gitweb: http://github.com/odoo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/odoo/%(name)s
+  omab:
+    branches:
+    - master
+    gitweb: http://github.com/omab/%(name)s/commit/%%(sha)s
+    uri: http://github.com/omab/%(name)s
+  openai:
+    branches:
+    - master
+    gitweb: http://github.com/openai/%(name)s/commit/%%(sha)s
+    uri: http://github.com/openai/%(name)s
+  openpaperwork:
+    branches:
+    - unstable
+    gitweb: http://github.com/openpaperwork/%(name)s/commit/%%(sha)s
+    uri: http://github.com/openpaperwork/%(name)s
+  openstack:
+    branches:
+    - master
+    gitweb: http://github.com/openstack/%(name)s/commit/%%(sha)s
+    uri: http://github.com/openstack/%(name)s
+  orakaro:
+    branches:
+    - master
+    gitweb: http://github.com/orakaro/%(name)s/commit/%%(sha)s
+    uri: http://github.com/orakaro/%(name)s
+  p-e-w:
+    branches:
+    - master
+    gitweb: http://github.com/p-e-w/%(name)s/commit/%%(sha)s
+    uri: http://github.com/p-e-w/%(name)s
+  pallets:
+    branches:
+    - master
+    gitweb: http://github.com/pallets/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pallets/%(name)s
+  pandas-dev:
+    branches:
+    - master
+    gitweb: http://github.com/pandas-dev/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pandas-dev/%(name)s
+  paramiko:
+    branches:
+    - master
+    gitweb: http://github.com/paramiko/%(name)s/commit/%%(sha)s
+    uri: http://github.com/paramiko/%(name)s
+  pavelgonchar:
+    branches:
+    - master
+    gitweb: http://github.com/pavelgonchar/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pavelgonchar/%(name)s
+  pennersr:
+    branches:
+    - master
+    gitweb: http://github.com/pennersr/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pennersr/%(name)s
+  phusion:
+    branches:
+    - master
+    gitweb: http://github.com/phusion/%(name)s/commit/%%(sha)s
+    uri: http://github.com/phusion/%(name)s
+  pinax:
+    branches:
+    - master
+    gitweb: http://github.com/pinax/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pinax/%(name)s
+  pixie-lang:
+    branches:
+    - master
+    gitweb: http://github.com/pixie-lang/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pixie-lang/%(name)s
+  plasma-disassembler:
+    branches:
+    - master
+    gitweb: http://github.com/plasma-disassembler/%(name)s/commit/%%(sha)s
+    uri: http://github.com/plasma-disassembler/%(name)s
+  platformio:
+    branches:
+    - develop
+    gitweb: http://github.com/platformio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/platformio/%(name)s
+  plotly:
+    branches:
+    - master
+    gitweb: http://github.com/plotly/%(name)s/commit/%%(sha)s
+    uri: http://github.com/plotly/%(name)s
+  posativ:
+    branches:
+    - master
+    gitweb: http://github.com/posativ/%(name)s/commit/%%(sha)s
+    uri: http://github.com/posativ/%(name)s
+  powerline:
+    branches:
+    - develop
+    gitweb: http://github.com/powerline/%(name)s/commit/%%(sha)s
+    uri: http://github.com/powerline/%(name)s
+  prakhar1989:
+    branches:
+    - master
+    gitweb: http://github.com/prakhar1989/%(name)s/commit/%%(sha)s
+    uri: http://github.com/prakhar1989/%(name)s
+  programthink:
+    branches:
+    - master
+    gitweb: http://github.com/programthink/%(name)s/commit/%%(sha)s
+    uri: http://github.com/programthink/%(name)s
+  pudo:
+    branches:
+    - master
+    gitweb: http://github.com/pudo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pudo/%(name)s
+  pybrain:
+    branches:
+    - master
+    gitweb: http://github.com/pybrain/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pybrain/%(name)s
+  pydanny:
+    branches:
+    - master
+    gitweb: http://github.com/pydanny/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pydanny/%(name)s
+  pyeve:
+    branches:
+    - master
+    gitweb: http://github.com/pyeve/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pyeve/%(name)s
+  pyinstaller:
+    branches:
+    - develop
+    gitweb: http://github.com/pyinstaller/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pyinstaller/%(name)s
+  pymc-devs:
+    branches:
+    - master
+    gitweb: http://github.com/pymc-devs/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pymc-devs/%(name)s
+  pypa:
+    branches:
+    - master
+    gitweb: http://github.com/pypa/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pypa/%(name)s
+  python:
+    branches:
+    - master
+    gitweb: http://github.com/python/%(name)s/commit/%%(sha)s
+    uri: http://github.com/python/%(name)s
+  python-mode:
+    branches:
+    - develop
+    gitweb: http://github.com/python-mode/%(name)s/commit/%%(sha)s
+    uri: http://github.com/python-mode/%(name)s
+  python-pillow:
+    branches:
+    - master
+    gitweb: http://github.com/python-pillow/%(name)s/commit/%%(sha)s
+    uri: http://github.com/python-pillow/%(name)s
+  python-telegram-bot:
+    branches:
+    - master
+    gitweb: http://github.com/python-telegram-bot/%(name)s/commit/%%(sha)s
+    uri: http://github.com/python-telegram-bot/%(name)s
+  python-visualization:
+    branches:
+    - master
+    gitweb: http://github.com/python-visualization/%(name)s/commit/%%(sha)s
+    uri: http://github.com/python-visualization/%(name)s
+  pytorch:
+    branches:
+    - master
+    gitweb: http://github.com/pytorch/%(name)s/commit/%%(sha)s
+    uri: http://github.com/pytorch/%(name)s
+  quantopian:
+    branches:
+    - master
+    gitweb: http://github.com/quantopian/%(name)s/commit/%%(sha)s
+    uri: http://github.com/quantopian/%(name)s
+  qutebrowser:
+    branches:
+    - master
+    gitweb: http://github.com/qutebrowser/%(name)s/commit/%%(sha)s
+    uri: http://github.com/qutebrowser/%(name)s
+  ranger:
+    branches:
+    - master
+    gitweb: http://github.com/ranger/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ranger/%(name)s
+  rbgirshick:
+    branches:
+    - master
+    gitweb: http://github.com/rbgirshick/%(name)s/commit/%%(sha)s
+    uri: http://github.com/rbgirshick/%(name)s
+  realpython:
+    branches:
+    - master
+    gitweb: http://github.com/realpython/%(name)s/commit/%%(sha)s
+    uri: http://github.com/realpython/%(name)s
+  reddit:
+    branches:
+    - master
+    gitweb: http://github.com/reddit/%(name)s/commit/%%(sha)s
+    uri: http://github.com/reddit/%(name)s
+  redecentralize:
+    branches:
+    - master
+    gitweb: http://github.com/redecentralize/%(name)s/commit/%%(sha)s
+    uri: http://github.com/redecentralize/%(name)s
+  reinderien:
+    branches:
+    - master
+    gitweb: http://github.com/reinderien/%(name)s/commit/%%(sha)s
+    uri: http://github.com/reinderien/%(name)s
+  rembo10:
+    branches:
+    - master
+    gitweb: http://github.com/rembo10/%(name)s/commit/%%(sha)s
+    uri: http://github.com/rembo10/%(name)s
+  reorx:
+    branches:
+    - master
+    gitweb: http://github.com/reorx/%(name)s/commit/%%(sha)s
+    uri: http://github.com/reorx/%(name)s
+  requests:
+    branches:
+    - master
+    gitweb: http://github.com/requests/%(name)s/commit/%%(sha)s
+    uri: http://github.com/requests/%(name)s
+  reverse-shell:
+    branches:
+    - master
+    gitweb: http://github.com/reverse-shell/%(name)s/commit/%%(sha)s
+    uri: http://github.com/reverse-shell/%(name)s
+  revolunet:
+    branches:
+    - master
+    gitweb: http://github.com/revolunet/%(name)s/commit/%%(sha)s
+    uri: http://github.com/revolunet/%(name)s
+  rg3:
+    branches:
+    - master
+    gitweb: http://github.com/rg3/%(name)s/commit/%%(sha)s
+    uri: http://github.com/rg3/%(name)s
+  rhiever:
+    branches:
+    - master
+    gitweb: http://github.com/rhiever/%(name)s/commit/%%(sha)s
+    uri: http://github.com/rhiever/%(name)s
+  rolando:
+    branches:
+    - master
+    gitweb: http://github.com/rolando/%(name)s/commit/%%(sha)s
+    uri: http://github.com/rolando/%(name)s
+  rtfd:
+    branches:
+    - master
+    gitweb: http://github.com/rtfd/%(name)s/commit/%%(sha)s
+    uri: http://github.com/rtfd/%(name)s
+  rushter:
+    branches:
+    - master
+    gitweb: http://github.com/rushter/%(name)s/commit/%%(sha)s
+    uri: http://github.com/rushter/%(name)s
+  ryankiros:
+    branches:
+    - master
+    gitweb: http://github.com/ryankiros/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ryankiros/%(name)s
+  s3tools:
+    branches:
+    - master
+    gitweb: http://github.com/s3tools/%(name)s/commit/%%(sha)s
+    uri: http://github.com/s3tools/%(name)s
+  saltstack:
+    branches:
+    - develop
+    gitweb: http://github.com/saltstack/%(name)s/commit/%%(sha)s
+    uri: http://github.com/saltstack/%(name)s
+  samshadwell:
+    branches:
+    - master
+    gitweb: http://github.com/samshadwell/%(name)s/commit/%%(sha)s
+    uri: http://github.com/samshadwell/%(name)s
+  samuelclay:
+    branches:
+    - master
+    gitweb: http://github.com/samuelclay/%(name)s/commit/%%(sha)s
+    uri: http://github.com/samuelclay/%(name)s
+  samuraisam:
+    branches:
+    - master
+    gitweb: http://github.com/samuraisam/%(name)s/commit/%%(sha)s
+    uri: http://github.com/samuraisam/%(name)s
+  schematics:
+    branches:
+    - master
+    gitweb: http://github.com/schematics/%(name)s/commit/%%(sha)s
+    uri: http://github.com/schematics/%(name)s
+  schollz:
+    branches:
+    - master
+    gitweb: http://github.com/schollz/%(name)s/commit/%%(sha)s
+    uri: http://github.com/schollz/%(name)s
+  scikit-learn:
+    branches:
+    - master
+    gitweb: http://github.com/scikit-learn/%(name)s/commit/%%(sha)s
+    uri: http://github.com/scikit-learn/%(name)s
+  scipy:
+    branches:
+    - master
+    gitweb: http://github.com/scipy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/scipy/%(name)s
+  scrapinghub:
+    branches:
+    - master
+    gitweb: http://github.com/scrapinghub/%(name)s/commit/%%(sha)s
+    uri: http://github.com/scrapinghub/%(name)s
+  scrapy:
+    branches:
+    - master
+    gitweb: http://github.com/scrapy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/scrapy/%(name)s
+  sdispater:
+    branches:
+    - master
+    gitweb: http://github.com/sdispater/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sdispater/%(name)s
+  seatgeek:
+    branches:
+    - master
+    gitweb: http://github.com/seatgeek/%(name)s/commit/%%(sha)s
+    uri: http://github.com/seatgeek/%(name)s
+  shadowsocks:
+    branches:
+    - rm
+    gitweb: http://github.com/shadowsocks/%(name)s/commit/%%(sha)s
+    uri: http://github.com/shadowsocks/%(name)s
+  sightmachine:
+    branches:
+    - master
+    gitweb: http://github.com/sightmachine/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sightmachine/%(name)s
+  simon-weber:
+    branches:
+    - develop
+    gitweb: http://github.com/simon-weber/%(name)s/commit/%%(sha)s
+    uri: http://github.com/simon-weber/%(name)s
+  sivel:
+    branches:
+    - master
+    gitweb: http://github.com/sivel/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sivel/%(name)s
+  sixohsix:
+    branches:
+    - master
+    gitweb: http://github.com/sixohsix/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sixohsix/%(name)s
+  sloria:
+    branches:
+    - dev
+    gitweb: http://github.com/sloria/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sloria/%(name)s
+  snare:
+    branches:
+    - master
+    gitweb: http://github.com/snare/%(name)s/commit/%%(sha)s
+    uri: http://github.com/snare/%(name)s
+  soimort:
+    branches:
+    - develop
+    gitweb: http://github.com/soimort/%(name)s/commit/%%(sha)s
+    uri: http://github.com/soimort/%(name)s
+  sokolovstas:
+    branches:
+    - ST3
+    gitweb: http://github.com/sokolovstas/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sokolovstas/%(name)s
+  somerandomdude:
+    branches:
+    - master
+    gitweb: http://github.com/somerandomdude/%(name)s/commit/%%(sha)s
+    uri: http://github.com/somerandomdude/%(name)s
+  songrotek:
+    branches:
+    - master
+    gitweb: http://github.com/songrotek/%(name)s/commit/%%(sha)s
+    uri: http://github.com/songrotek/%(name)s
+  soumith:
+    branches:
+    - master
+    gitweb: http://github.com/soumith/%(name)s/commit/%%(sha)s
+    uri: http://github.com/soumith/%(name)s
+  sovereign:
+    branches:
+    - master
+    gitweb: http://github.com/sovereign/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sovereign/%(name)s
+  spadgos:
+    branches:
+    - master
+    gitweb: http://github.com/spadgos/%(name)s/commit/%%(sha)s
+    uri: http://github.com/spadgos/%(name)s
+  spinnaker:
+    branches:
+    - master
+    gitweb: http://github.com/spinnaker/%(name)s/commit/%%(sha)s
+    uri: http://github.com/spinnaker/%(name)s
+  spotify:
+    branches:
+    - master
+    gitweb: http://github.com/spotify/%(name)s/commit/%%(sha)s
+    uri: http://github.com/spotify/%(name)s
+  spyder-ide:
+    branches:
+    - master
+    gitweb: http://github.com/spyder-ide/%(name)s/commit/%%(sha)s
+    uri: http://github.com/spyder-ide/%(name)s
+  sqlmapproject:
+    branches:
+    - master
+    gitweb: http://github.com/sqlmapproject/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sqlmapproject/%(name)s
+  sripathikrishnan:
+    branches:
+    - master
+    gitweb: http://github.com/sripathikrishnan/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sripathikrishnan/%(name)s
+  sshwsfc:
+    branches:
+    - master
+    gitweb: http://github.com/sshwsfc/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sshwsfc/%(name)s
+  stamparm:
+    branches:
+    - master
+    gitweb: http://github.com/stamparm/%(name)s/commit/%%(sha)s
+    uri: http://github.com/stamparm/%(name)s
+  statsmodels:
+    branches:
+    - master
+    gitweb: http://github.com/statsmodels/%(name)s/commit/%%(sha)s
+    uri: http://github.com/statsmodels/%(name)s
+  stephenmcd:
+    branches:
+    - master
+    gitweb: http://github.com/stephenmcd/%(name)s/commit/%%(sha)s
+    uri: http://github.com/stephenmcd/%(name)s
+  sublimehq:
+    branches:
+    - master
+    gitweb: http://github.com/sublimehq/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sublimehq/%(name)s
+  sylnsfar:
+    branches:
+    - master
+    gitweb: http://github.com/sylnsfar/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sylnsfar/%(name)s
+  sympy:
+    branches:
+    - master
+    gitweb: http://github.com/sympy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/sympy/%(name)s
+  taigaio:
+    branches:
+    - master
+    gitweb: http://github.com/taigaio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/taigaio/%(name)s
+  tangqiaoboy:
+    branches:
+    - master
+    gitweb: http://github.com/tangqiaoboy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tangqiaoboy/%(name)s
+  taobao:
+    branches:
+    - master
+    gitweb: http://github.com/taobao/%(name)s/commit/%%(sha)s
+    uri: http://github.com/taobao/%(name)s
+  tensorflow:
+    branches:
+    - master
+    gitweb: http://github.com/tensorflow/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tensorflow/%(name)s
+  tflearn:
+    branches:
+    - master
+    gitweb: http://github.com/tflearn/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tflearn/%(name)s
+  tgalal:
+    branches:
+    - master
+    gitweb: http://github.com/tgalal/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tgalal/%(name)s
+  thearn:
+    branches:
+    - no_openmdao
+    gitweb: http://github.com/thearn/%(name)s/commit/%%(sha)s
+    uri: http://github.com/thearn/%(name)s
+  thumbor:
+    branches:
+    - master
+    gitweb: http://github.com/thumbor/%(name)s/commit/%%(sha)s
+    uri: http://github.com/thumbor/%(name)s
+  timgrossmann:
+    branches:
+    - master
+    gitweb: http://github.com/timgrossmann/%(name)s/commit/%%(sha)s
+    uri: http://github.com/timgrossmann/%(name)s
+  timothycrosley:
+    branches:
+    - develop
+    gitweb: http://github.com/timothycrosley/%(name)s/commit/%%(sha)s
+    uri: http://github.com/timothycrosley/%(name)s
+  tornadoweb:
+    branches:
+    - master
+    gitweb: http://github.com/tornadoweb/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tornadoweb/%(name)s
+  tqdm:
+    branches:
+    - master
+    gitweb: http://github.com/tqdm/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tqdm/%(name)s
+  trustedsec:
+    branches:
+    - master
+    gitweb: http://github.com/trustedsec/%(name)s/commit/%%(sha)s
+    uri: http://github.com/trustedsec/%(name)s
+  tschellenbach:
+    branches:
+    - master
+    gitweb: http://github.com/tschellenbach/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tschellenbach/%(name)s
+  tweepy:
+    branches:
+    - master
+    gitweb: http://github.com/tweepy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/tweepy/%(name)s
+  twisted:
+    branches:
+    - trunk
+    gitweb: http://github.com/twisted/%(name)s/commit/%%(sha)s
+    uri: http://github.com/twisted/%(name)s
+  ujjwalkarn:
+    branches:
+    - master
+    gitweb: http://github.com/ujjwalkarn/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ujjwalkarn/%(name)s
+  vinta:
+    branches:
+    - master
+    gitweb: http://github.com/vinta/%(name)s/commit/%%(sha)s
+    uri: http://github.com/vinta/%(name)s
+  waditu:
+    branches:
+    - master
+    gitweb: http://github.com/waditu/%(name)s/commit/%%(sha)s
+    uri: http://github.com/waditu/%(name)s
+  wagtail:
+    branches:
+    - master
+    gitweb: http://github.com/wagtail/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wagtail/%(name)s
+  wal-e:
+    branches:
+    - master
+    gitweb: http://github.com/wal-e/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wal-e/%(name)s
+  wbond:
+    branches:
+    - master
+    gitweb: http://github.com/wbond/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wbond/%(name)s
+  webpy:
+    branches:
+    - master
+    gitweb: http://github.com/webpy/%(name)s/commit/%%(sha)s
+    uri: http://github.com/webpy/%(name)s
+  what-studio:
+    branches:
+    - master
+    gitweb: http://github.com/what-studio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/what-studio/%(name)s
+  whtsky:
+    branches:
+    - develop
+    gitweb: http://github.com/whtsky/%(name)s/commit/%%(sha)s
+    uri: http://github.com/whtsky/%(name)s
+  wifiphisher:
+    branches:
+    - master
+    gitweb: http://github.com/wifiphisher/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wifiphisher/%(name)s
+  wireservice:
+    branches:
+    - master
+    gitweb: http://github.com/wireservice/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wireservice/%(name)s
+  worldveil:
+    branches:
+    - master
+    gitweb: http://github.com/worldveil/%(name)s/commit/%%(sha)s
+    uri: http://github.com/worldveil/%(name)s
+  wrobstory:
+    branches:
+    - master
+    gitweb: http://github.com/wrobstory/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wrobstory/%(name)s
+  wting:
+    branches:
+    - master
+    gitweb: http://github.com/wting/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wting/%(name)s
+  wuub:
+    branches:
+    - master
+    gitweb: http://github.com/wuub/%(name)s/commit/%%(sha)s
+    uri: http://github.com/wuub/%(name)s
+  xchaoinfo:
+    branches:
+    - master
+    gitweb: http://github.com/xchaoinfo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/xchaoinfo/%(name)s
+  xiyouMc:
+    branches:
+    - master
+    gitweb: http://github.com/xiyouMc/%(name)s/commit/%%(sha)s
+    uri: http://github.com/xiyouMc/%(name)s
+  xonsh:
+    branches:
+    - master
+    gitweb: http://github.com/xonsh/%(name)s/commit/%%(sha)s
+    uri: http://github.com/xonsh/%(name)s
+  yahoo:
+    branches:
+    - master
+    gitweb: http://github.com/yahoo/%(name)s/commit/%%(sha)s
+    uri: http://github.com/yahoo/%(name)s
+  yandex:
+    branches:
+    - master
+    gitweb: http://github.com/yandex/%(name)s/commit/%%(sha)s
+    uri: http://github.com/yandex/%(name)s
+  yenchenlin:
+    branches:
+    - master
+    gitweb: http://github.com/yenchenlin/%(name)s/commit/%%(sha)s
+    uri: http://github.com/yenchenlin/%(name)s
+  yhat:
+    branches:
+    - master
+    gitweb: http://github.com/yhat/%(name)s/commit/%%(sha)s
+    uri: http://github.com/yhat/%(name)s
+  yidao620c:
+    branches:
+    - master
+    gitweb: http://github.com/yidao620c/%(name)s/commit/%%(sha)s
+    uri: http://github.com/yidao620c/%(name)s
+  youfou:
+    branches:
+    - master
+    gitweb: http://github.com/youfou/%(name)s/commit/%%(sha)s
+    uri: http://github.com/youfou/%(name)s
+  ytisf:
+    branches:
+    - master
+    gitweb: http://github.com/ytisf/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ytisf/%(name)s
+  yunjey:
+    branches:
+    - master
+    gitweb: http://github.com/yunjey/%(name)s/commit/%%(sha)s
+    uri: http://github.com/yunjey/%(name)s
+  zulip:
+    branches:
+    - master
+    gitweb: http://github.com/zulip/%(name)s/commit/%%(sha)s
+    uri: http://github.com/zulip/%(name)s
+  zzzeek:
+    branches:
+    - master
+    gitweb: http://github.com/zzzeek/%(name)s/commit/%%(sha)s
+    uri: http://github.com/zzzeek/%(name)s
+projects:
+  0rpc:
+    zerorpc-python:
+      template: 0rpc
+  '0x5e':
+    wechat-deleted-friends:
+      template: '0x5e'
+  10se1ucgo:
+    DisableWinTracking:
+      template: 10se1ucgo
+  521xueweihan:
+    HelloGitHub:
+      template: 521xueweihan
+  AlessandroZ:
+    LaZagne:
+      template: AlessandroZ
+  AppScale:
+    appscale:
+      template: AppScale
+  Bitmessage:
+    PyBitmessage:
+      template: Bitmessage
+  ClusterHQ:
+    flocker:
+      template: ClusterHQ
+  CouchPotato:
+    CouchPotatoServer:
+      template: CouchPotato
+  DanMcInerney:
+    wifijammer:
+      template: DanMcInerney
+  Eloston:
+    ungoogled-chromium:
+      template: Eloston
+  Gallopsled:
+    pwntools:
+      template: Gallopsled
+  Guake:
+    guake:
+      template: Guake
+  HelloZeroNet:
+    ZeroNet:
+      template: HelloZeroNet
+  Hironsan:
+    BossSensor:
+      template: Hironsan
+  HypothesisWorks:
+    hypothesis-python:
+      template: HypothesisWorks
+  Jahaja:
+    psdash:
+      template: Jahaja
+  JakeWharton:
+    pidcat:
+      template: JakeWharton
+  JuanPotato:
+    Legofy:
+      template: JuanPotato
+  Katee:
+    quietnet:
+      template: Katee
+  KeyboardFire:
+    mkcast:
+      template: KeyboardFire
+  Kinto:
+    kinto:
+      template: Kinto
+  Lasagne:
+    Lasagne:
+      template: Lasagne
+  LewisVo:
+    Awesome-Linux-Software:
+      template: LewisVo
+  MagicStack:
+    asyncpg:
+      template: MagicStack
+    uvloop:
+      template: MagicStack
+  Miserlou:
+    Zappa:
+      template: Miserlou
+  MobSF:
+    Mobile-Security-Framework-MobSF:
+      template: MobSF
+  MobileChromeApps:
+    mobile-chrome-apps:
+      template: MobileChromeApps
+  NVIDIA:
+    DIGITS:
+      template: NVIDIA
+  NervanaSystems:
+    neon:
+      template: NervanaSystems
+  Newmu:
+    dcgan_code:
+      template: Newmu
+  PeterDing:
+    iScript:
+      template: PeterDing
+  PokemonGoF:
+    PokemonGo-Bot:
+      template: PokemonGoF
+  PyCQA:
+    pycodestyle:
+      template: PyCQA
+  PyMySQL:
+    PyMySQL:
+      template: PyMySQL
+  Pylons:
+    pyramid:
+      template: Pylons
+  Qix-:
+    better-exceptions:
+      template: Qix-
+  RaRe-Technologies:
+    gensim:
+      template: RaRe-Technologies
+  Rochester-NRT:
+    RocAlphaGo:
+      template: Rochester-NRT
+  RocketMap:
+    RocketMap:
+      template: RocketMap
+  Russell91:
+    pythonpy:
+      template: Russell91
+  Shougo:
+    deoplete.nvim:
+      template: Shougo
+  SideBarEnhancements-org:
+    SideBarEnhancements:
+      template: SideBarEnhancements-org
+  SirVer:
+    ultisnips:
+      template: SirVer
+  StackStorm:
+    st2:
+      template: StackStorm
+  SublimeCodeIntel:
+    SublimeCodeIntel:
+      template: SublimeCodeIntel
+  SublimeText-Markdown:
+    MarkdownEditing:
+      template: SublimeText-Markdown
+  Supervisor:
+    supervisor:
+      template: Supervisor
+  Theano:
+    Theano:
+      template: Theano
+  Tribler:
+    tribler:
+      template: Tribler
+  USArmyResearchLab:
+    Dshell:
+      template: USArmyResearchLab
+  Uberi:
+    speech_recognition:
+      template: Uberi
+  Urinx:
+    WeixinBot:
+      template: Urinx
+  Valloric:
+    YouCompleteMe:
+      template: Valloric
+  VitaliyRodnenko:
+    geeknote:
+      template: VitaliyRodnenko
+  XX-net:
+    XX-Net:
+      template: XX-net
+  Yelp:
+    dumb-init:
+      template: Yelp
+    elastalert:
+      template: Yelp
+    mrjob:
+      template: Yelp
+  Zulko:
+    moviepy:
+      template: Zulko
+  a1studmuffin:
+    SpaceshipGenerator:
+      template: a1studmuffin
+  adobe-fonts:
+    source-code-pro:
+      template: adobe-fonts
+  affinelayer:
+    pix2pix-tensorflow:
+      template: affinelayer
+  ageitgey:
+    face_recognition:
+      template: ageitgey
+  aio-libs:
+    aiohttp:
+      template: aio-libs
+  airbnb:
+    knowledge-repo:
+      template: airbnb
+    superset:
+      template: airbnb
+  ajalt:
+    fuckitpy:
+      template: ajalt
+  ajenti:
+    ajenti:
+      template: ajenti
+  alexjc:
+    neural-doodle:
+      template: alexjc
+    neural-enhance:
+      template: alexjc
+  amoffat:
+    sh:
+      template: amoffat
+  amperser:
+    proselint:
+      template: amperser
+  amscanne:
+    huptime:
+      template: amscanne
+  amueller:
+    word_cloud:
+      template: amueller
+  andymccurdy:
+    redis-py:
+      template: andymccurdy
+  anishathalye:
+    git-remote-dropbox:
+      template: anishathalye
+    neural-style:
+      template: anishathalye
+  ansible:
+    ansible:
+      template: ansible
+  apache:
+    incubator-airflow:
+      template: apache
+  apenwarr:
+    sshuttle:
+      template: apenwarr
+  apprenticeharper:
+    DeDRM_tools:
+      template: apprenticeharper
+  arielf:
+    weight-loss:
+      template: arielf
+  asciimoo:
+    drawille:
+      template: asciimoo
+    searx:
+      template: asciimoo
+  asciinema:
+    asciinema:
+      template: asciinema
+  atlassian:
+    localstack:
+      template: atlassian
+  audreyr:
+    cookiecutter:
+      template: audreyr
+  avinassh:
+    rockstar:
+      template: avinassh
+  awentzonline:
+    image-analogies:
+      template: awentzonline
+  aws:
+    aws-cli:
+      template: aws
+  awslabs:
+    aws-shell:
+      template: awslabs
+    chalice:
+      template: awslabs
+  aziz:
+    PlainTasks:
+      template: aziz
+  banga:
+    powerline-shell:
+      template: banga
+  beetbox:
+    beets:
+      template: beetbox
+  benoitc:
+    gunicorn:
+      template: benoitc
+  binux:
+    pyspider:
+      template: binux
+  blaze:
+    blaze:
+      template: blaze
+  bokeh:
+    bokeh:
+      template: bokeh
+  borgbackup:
+    borg:
+      template: borgbackup
+  boto:
+    boto:
+      template: boto
+    boto3:
+      template: boto
+  bottlepy:
+    bottle:
+      template: bottlepy
+  buildbot:
+    buildbot:
+      template: buildbot
+  bup:
+    bup:
+      template: bup
+  burnash:
+    gspread:
+      template: burnash
+  byt3bl33d3r:
+    MITMf:
+      template: byt3bl33d3r
+  carltongibson:
+    django-filter:
+      template: carltongibson
+  celery:
+    celery:
+      template: celery
+  certbot:
+    certbot:
+      template: certbot
+  chainer:
+    chainer:
+      template: chainer
+  channelcat:
+    sanic:
+      template: channelcat
+  chaosbot:
+    Chaos:
+      template: chaosbot
+  chrippa:
+    livestreamer:
+      template: chrippa
+  chrisallenlane:
+    cheat:
+      template: chrisallenlane
+  chriskiehl:
+    Gooey:
+      template: chriskiehl
+  chrissimpkins:
+    Hack:
+      template: chrissimpkins
+    codeface:
+      template: chrissimpkins
+  christabor:
+    flask_jsondash:
+      template: christabor
+  chubin:
+    wttr.in:
+      template: chubin
+  clips:
+    pattern:
+      template: clips
+  cloudera:
+    hue:
+      template: cloudera
+  cloudtools:
+    troposphere:
+      template: cloudtools
+  codelucas:
+    newspaper:
+      template: codelucas
+  coleifer:
+    peewee:
+      template: coleifer
+  commaai:
+    research:
+      template: commaai
+  coursera-dl:
+    coursera-dl:
+      template: coursera-dl
+  crsmithdev:
+    arrow:
+      template: crsmithdev
+  cyrus-and:
+    gdb-dashboard:
+      template: cyrus-and
+  cython:
+    cython:
+      template: cython
+  dabeaz:
+    curio:
+      template: dabeaz
+  dae:
+    anki:
+      template: dae
+  darknessomi:
+    musicbox:
+      template: darknessomi
+  david-gpu:
+    srez:
+      template: david-gpu
+  davidhalter:
+    jedi:
+      template: davidhalter
+  dbader:
+    schedule:
+      template: dbader
+  dbcli:
+    mycli:
+      template: dbcli
+    pgcli:
+      template: dbcli
+  deepmind:
+    learning-to-learn:
+      template: deepmind
+    sonnet:
+      template: deepmind
+  deis:
+    deis:
+      template: deis
+  detailyang:
+    awesome-cheatsheet:
+      template: detailyang
+  devstructure:
+    blueprint:
+      template: devstructure
+  devttys0:
+    binwalk:
+      template: devttys0
+  diafygi:
+    acme-tiny:
+      template: diafygi
+  digitalocean:
+    netbox:
+      template: digitalocean
+  divio:
+    django-cms:
+      template: divio
+  djaiss:
+    mapsicon:
+      template: djaiss
+  django:
+    channels:
+      template: django
+    django:
+      template: django
+  django-compressor:
+    django-compressor:
+      template: django-compressor
+  django-crispy-forms:
+    django-crispy-forms:
+      template: django-crispy-forms
+  django-extensions:
+    django-extensions:
+      template: django-extensions
+  django-haystack:
+    django-haystack:
+      template: django-haystack
+  django-oscar:
+    django-oscar:
+      template: django-oscar
+  django-tastypie:
+    django-tastypie:
+      template: django-tastypie
+  docker:
+    compose:
+      template: docker
+    docker-py:
+      template: docker
+    docker-registry:
+      template: docker
+  docopt:
+    docopt:
+      template: docopt
+  donnemartin:
+    awesome-aws:
+      template: donnemartin
+    data-science-ipython-notebooks:
+      template: donnemartin
+    dev-setup:
+      template: donnemartin
+    gitsome:
+      template: donnemartin
+    haxor-news:
+      template: donnemartin
+    interactive-coding-challenges:
+      template: donnemartin
+    saws:
+      template: donnemartin
+    system-design-primer:
+      template: donnemartin
+  douban:
+    dpark:
+      template: douban
+  drduh:
+    macOS-Security-and-Privacy-Guide:
+      template: drduh
+  dropbox:
+    pyston:
+      template: dropbox
+  dschep:
+    ntfy:
+      template: dschep
+  dyve:
+    django-bootstrap3:
+      template: dyve
+  eastlakeside:
+    interpy-zh:
+      template: eastlakeside
+  edx:
+    edx-platform:
+      template: edx
+  eliangcs:
+    http-prompt:
+      template: eliangcs
+  emirozer:
+    fake2db:
+      template: emirozer
+  emre:
+    storm:
+      template: emre
+  encode:
+    django-rest-framework:
+      template: encode
+  equinusocio:
+    material-theme:
+      template: equinusocio
+  eriklindernoren:
+    ML-From-Scratch:
+      template: eriklindernoren
+  etianen:
+    django-reversion:
+      template: etianen
+  etsy:
+    logster:
+      template: etsy
+    skyline:
+      template: etsy
+  eudicots:
+    Cactus:
+      template: eudicots
+  euske:
+    pdfminer:
+      template: euske
+  evilsocket:
+    opensnitch:
+      template: evilsocket
+  explosion:
+    spaCy:
+      template: explosion
+  fabric:
+    fabric:
+      template: fabric
+  facebook:
+    PathPicker:
+      template: facebook
+    augmented-traffic-control:
+      template: facebook
+    chisel:
+      template: facebook
+  facebookarchive:
+    huxley:
+      template: facebookarchive
+    python-instagram:
+      template: facebookarchive
+  facebookincubator:
+    prophet:
+      template: facebookincubator
+  facebookresearch:
+    ParlAI:
+      template: facebookresearch
+  faif:
+    python-patterns:
+      template: faif
+  fail2ban:
+    fail2ban:
+      template: fail2ban
+  falconry:
+    falcon:
+      template: falconry
+  fastmonkeys:
+    stellar:
+      template: fastmonkeys
+  fchollet:
+    deep-learning-models:
+      template: fchollet
+    keras:
+      template: fchollet
+  feross:
+    SpoofMAC:
+      template: feross
+  fivesheep:
+    chnroutes:
+      template: fivesheep
+  flask-admin:
+    flask-admin:
+      template: flask-admin
+  flask-restful:
+    flask-restful:
+      template: flask-restful
+  floydhub:
+    dl-docker:
+      template: floydhub
+  fogleman:
+    Minecraft:
+      template: fogleman
+  frappe:
+    erpnext:
+      template: frappe
+  freedomofpress:
+    securedrop:
+      template: freedomofpress
+  fxsjy:
+    jieba:
+      template: fxsjy
+  gaubert:
+    gmvault:
+      template: gaubert
+  geekcomputers:
+    Python:
+      template: geekcomputers
+  gelstudios:
+    gitfiti:
+      template: gelstudios
+  getpelican:
+    pelican:
+      template: getpelican
+  getredash:
+    redash:
+      template: getredash
+  getsentry:
+    sentry:
+      template: getsentry
+  gevent:
+    gevent:
+      template: gevent
+  giampaolo:
+    psutil:
+      template: giampaolo
+  gleitz:
+    howdoi:
+      template: gleitz
+  gnemoug:
+    distribute_crawler:
+      template: gnemoug
+  gongjianhui:
+    AppleDNS:
+      template: gongjianhui
+  google:
+    enjarify:
+      template: google
+    grr:
+      template: google
+    nogotofail:
+      template: google
+    python-fire:
+      template: google
+    roboto:
+      template: google
+    seq2seq:
+      template: google
+    yapf:
+      template: google
+  gorakhargosh:
+    watchdog:
+      template: gorakhargosh
+  graphific:
+    DeepDreamVideo:
+      template: graphific
+  graphql-python:
+    graphene:
+      template: graphql-python
+  gregmalcolm:
+    python_koans:
+      template: gregmalcolm
+  gunthercox:
+    ChatterBot:
+      template: gunthercox
+  hanc00l:
+    wooyun_public:
+      template: hanc00l
+  harelba:
+    q:
+      template: harelba
+  hephaest0s:
+    usbkill:
+      template: hephaest0s
+  hhatto:
+    autopep8:
+      template: hhatto
+  home-assistant:
+    home-assistant:
+      template: home-assistant
+  honza:
+    vim-snippets:
+      template: honza
+  houtianze:
+    bypy:
+      template: houtianze
+  humphd:
+    have-fun-with-machine-learning:
+      template: humphd
+  huntergregal:
+    mimipenguin:
+      template: huntergregal
+  hylang:
+    hy:
+      template: hylang
+  i-tu:
+    Hasklig:
+      template: i-tu
+  iBaa:
+    PlexConnect:
+      template: iBaa
+  iambus:
+    xunlei-lixian:
+      template: iambus
+  ibab:
+    tensorflow-wavenet:
+      template: ibab
+  idank:
+    explainshell:
+      template: idank
+  ipython:
+    ipython:
+      template: ipython
+  isnowfy:
+    snownlp:
+      template: isnowfy
+  isocpp:
+    CppCoreGuidelines:
+      template: isocpp
+  jakubroztocil:
+    httpie:
+      template: jakubroztocil
+  jasperproject:
+    jasper-client:
+      template: jasperproject
+  jayfk:
+    statuspage:
+      template: jayfk
+  jazzband:
+    django-debug-toolbar:
+      template: jazzband
+    pip-tools:
+      template: jazzband
+  jeanphix:
+    Ghost.py:
+      template: jeanphix
+  jeffkaufman:
+    icdiff:
+      template: jeffkaufman
+  jeffknupp:
+    sandman:
+      template: jeffknupp
+  jgm:
+    CommonMark:
+      template: jgm
+  jiaaro:
+    pydub:
+      template: jiaaro
+  jisaacks:
+    GitGutter:
+      template: jisaacks
+  jmcarp:
+    robobrowser:
+      template: jmcarp
+  joelgrus:
+    data-science-from-scratch:
+      template: joelgrus
+  joestump:
+    python-oauth2:
+      template: joestump
+  joke2k:
+    faker:
+      template: joke2k
+  jokkedk:
+    webgrind:
+      template: jokkedk
+  jonathanslenders:
+    ptpython:
+      template: jonathanslenders
+    python-prompt-toolkit:
+      template: jonathanslenders
+    pyvim:
+      template: jonathanslenders
+  jopohl:
+    urh:
+      template: jopohl
+  jorgebastida:
+    glue:
+      template: jorgebastida
+    gordon:
+      template: jorgebastida
+  josephmisiti:
+    awesome-machine-learning:
+      template: josephmisiti
+  joshnewlan:
+    say_what:
+      template: joshnewlan
+  jostmey:
+    NakedTensor:
+      template: jostmey
+  jsvine:
+    waybackpack:
+      template: jsvine
+  junyanz:
+    iGAN:
+      template: junyanz
+  jupyterhub:
+    jupyterhub:
+      template: jupyterhub
+  jwilder:
+    nginx-proxy:
+      template: jwilder
+  kachayev:
+    fn.py:
+      template: kachayev
+  kamyu104:
+    LeetCode:
+      template: kamyu104
+  karpathy:
+    neuraltalk:
+      template: karpathy
+  kbengine:
+    kbengine:
+      template: kbengine
+  kemayo:
+    sublime-text-git:
+      template: kemayo
+  kennethreitz:
+    clint:
+      template: kennethreitz
+    envoy:
+      template: kennethreitz
+    grequests:
+      template: kennethreitz
+    httpbin:
+      template: kennethreitz
+    legit:
+      template: kennethreitz
+    osx-gcc-installer:
+      template: kennethreitz
+    pipenv:
+      template: kennethreitz
+    records:
+      template: kennethreitz
+    tablib:
+      template: kennethreitz
+  keon:
+    algorithms:
+      template: keon
+  kivy:
+    kivy:
+      template: kivy
+    python-for-android:
+      template: kivy
+  kootenpv:
+    whereami:
+      template: kootenpv
+  kovidgoyal:
+    calibre:
+      template: kovidgoyal
+  kstenerud:
+    iOS-Universal-Framework:
+      template: kstenerud
+  kylemcdonald:
+    FreeWifi:
+      template: kylemcdonald
+  larsenwork:
+    monoid:
+      template: larsenwork
+  lauris:
+    awesome-scala:
+      template: lauris
+  lbryio:
+    lbry:
+      template: lbryio
+  lebinh:
+    ngxtop:
+      template: lebinh
+  lektor:
+    lektor:
+      template: lektor
+  lengstrom:
+    fast-style-transfer:
+      template: lengstrom
+  lihaoyi:
+    macropy:
+      template: lihaoyi
+  lisa-lab:
+    DeepLearningTutorials:
+      template: lisa-lab
+    pylearn2:
+      template: lisa-lab
+  littlecodersh:
+    ItChat:
+      template: littlecodersh
+  liuwons:
+    wxBot:
+      template: liuwons
+  livid:
+    v2ex:
+      template: livid
+  lk-geimfari:
+    awesomo:
+      template: lk-geimfari
+  locustio:
+    locust:
+      template: locustio
+  longld:
+    peda:
+      template: longld
+  lra:
+    mackup:
+      template: lra
+  maebert:
+    jrnl:
+      template: maebert
+  mahmoud:
+    boltons:
+      template: mahmoud
+  mail-in-a-box:
+    mailinabox:
+      template: mail-in-a-box
+  mailpile:
+    Mailpile:
+      template: mailpile
+  mantl:
+    mantl:
+      template: mantl
+  martinblech:
+    xmltodict:
+      template: martinblech
+  matplotlib:
+    matplotlib:
+      template: matplotlib
+  matrix-org:
+    synapse:
+      template: matrix-org
+  maxbbraun:
+    trump2cash:
+      template: maxbbraun
+  mchristopher:
+    PokemonGo-DesktopMap:
+      template: mchristopher
+  mher:
+    flower:
+      template: mher
+  micahflee:
+    onionshare:
+      template: micahflee
+  midgetspy:
+    Sick-Beard:
+      template: midgetspy
+  miguelgrinberg:
+    flasky:
+      template: miguelgrinberg
+  miloyip:
+    game-programmer:
+      template: miloyip
+  minimaxir:
+    big-list-of-naughty-strings:
+      template: minimaxir
+  mininet:
+    mininet:
+      template: mininet
+  misterch0c:
+    shadowbroker:
+      template: misterch0c
+  mitmproxy:
+    mitmproxy:
+      template: mitmproxy
+  mkdocs:
+    mkdocs:
+      template: mkdocs
+  mnielsen:
+    neural-networks-and-deep-learning:
+      template: mnielsen
+  mobolic:
+    facebook-sdk:
+      template: mobolic
+  mongodb:
+    mongo-python-driver:
+      template: mongodb
+  mooz:
+    percol:
+      template: mooz
+  mopidy:
+    mopidy:
+      template: mopidy
+  mps-youtube:
+    mps-youtube:
+      template: mps-youtube
+  mwaskom:
+    seaborn:
+      template: mwaskom
+  n1nj4sec:
+    pupy:
+      template: n1nj4sec
+  nate-parrott:
+    Flashlight:
+      template: nate-parrott
+  networkx:
+    networkx:
+      template: networkx
+  newsapps:
+    beeswithmachineguns:
+      template: newsapps
+  nicolargo:
+    glances:
+      template: nicolargo
+  nltk:
+    nltk:
+      template: nltk
+  noamraph:
+    tqdm:
+      template: noamraph
+  nodejs:
+    node-gyp:
+      template: nodejs
+  nryoung:
+    algorithms:
+      template: nryoung
+  numba:
+    numba:
+      template: numba
+  numenta:
+    nupic:
+      template: numenta
+  nvbn:
+    thefuck:
+      template: nvbn
+  nvdv:
+    vprof:
+      template: nvdv
+  nvie:
+    rq:
+      template: nvie
+  nylas:
+    sync-engine:
+      template: nylas
+  odoo:
+    odoo:
+      template: odoo
+  omab:
+    django-social-auth:
+      template: omab
+    python-social-auth:
+      template: omab
+  openai:
+    gym:
+      template: openai
+    universe:
+      template: openai
+  openpaperwork:
+    paperwork:
+      template: openpaperwork
+  openstack:
+    nova:
+      template: openstack
+  orakaro:
+    rainbowstream:
+      template: orakaro
+  p-e-w:
+    maybe:
+      template: p-e-w
+  pallets:
+    click:
+      template: pallets
+    flask:
+      template: pallets
+    jinja:
+      template: pallets
+    werkzeug:
+      template: pallets
+  pandas-dev:
+    pandas:
+      template: pandas-dev
+  paramiko:
+    paramiko:
+      template: paramiko
+  pavelgonchar:
+    colornet:
+      template: pavelgonchar
+  pennersr:
+    django-allauth:
+      template: pennersr
+  phusion:
+    baseimage-docker:
+      template: phusion
+  pinax:
+    pinax:
+      template: pinax
+  pixie-lang:
+    pixie:
+      template: pixie-lang
+  plasma-disassembler:
+    plasma:
+      template: plasma-disassembler
+  platformio:
+    platformio-core:
+      template: platformio
+  plotly:
+    plotly.py:
+      template: plotly
+  posativ:
+    isso:
+      template: posativ
+  powerline:
+    powerline:
+      template: powerline
+  prakhar1989:
+    Algorithms:
+      template: prakhar1989
+  programthink:
+    zhao:
+      template: programthink
+  pudo:
+    dataset:
+      template: pudo
+  pybrain:
+    pybrain:
+      template: pybrain
+  pydanny:
+    cookiecutter-django:
+      template: pydanny
+  pyeve:
+    eve:
+      template: pyeve
+  pyinstaller:
+    pyinstaller:
+      template: pyinstaller
+  pymc-devs:
+    pymc3:
+      template: pymc-devs
+  pypa:
+    pip:
+      template: pypa
+    pipfile:
+      template: pypa
+    virtualenv:
+      template: pypa
+  python:
+    cpython:
+      template: python
+    mypy:
+      template: python
+  python-mode:
+    python-mode:
+      template: python-mode
+  python-pillow:
+    Pillow:
+      template: python-pillow
+  python-telegram-bot:
+    python-telegram-bot:
+      template: python-telegram-bot
+  python-visualization:
+    folium:
+      template: python-visualization
+  pytorch:
+    pytorch:
+      template: pytorch
+  quantopian:
+    zipline:
+      template: quantopian
+  qutebrowser:
+    qutebrowser:
+      template: qutebrowser
+  ranger:
+    ranger:
+      template: ranger
+  rbgirshick:
+    py-faster-rcnn:
+      template: rbgirshick
+  realpython:
+    discover-flask:
+      template: realpython
+  reddit:
+    reddit:
+      template: reddit
+  redecentralize:
+    alternative-internet:
+      template: redecentralize
+  reinderien:
+    mimic:
+      template: reinderien
+  rembo10:
+    headphones:
+      template: rembo10
+  reorx:
+    httpstat:
+      template: reorx
+  requests:
+    requests:
+      template: requests
+  reverse-shell:
+    routersploit:
+      template: reverse-shell
+  revolunet:
+    sublimetext-markdown-preview:
+      template: revolunet
+  rg3:
+    youtube-dl:
+      template: rg3
+  rhiever:
+    tpot:
+      template: rhiever
+  rolando:
+    scrapy-redis:
+      template: rolando
+  rtfd:
+    readthedocs.org:
+      template: rtfd
+  rushter:
+    MLAlgorithms:
+      template: rushter
+    data-science-blogs:
+      template: rushter
+  ryankiros:
+    neural-storyteller:
+      template: ryankiros
+  s3tools:
+    s3cmd:
+      template: s3tools
+  saltstack:
+    salt:
+      template: saltstack
+  samshadwell:
+    TrumpScript:
+      template: samshadwell
+  samuelclay:
+    NewsBlur:
+      template: samuelclay
+  samuraisam:
+    pyapns:
+      template: samuraisam
+  schematics:
+    schematics:
+      template: schematics
+  schollz:
+    howmanypeoplearearound:
+      template: schollz
+  scikit-learn:
+    scikit-learn:
+      template: scikit-learn
+  scipy:
+    scipy:
+      template: scipy
+  scrapinghub:
+    portia:
+      template: scrapinghub
+  scrapy:
+    scrapy:
+      template: scrapy
+  sdispater:
+    pendulum:
+      template: sdispater
+  seatgeek:
+    fuzzywuzzy:
+      template: seatgeek
+  shadowsocks:
+    shadowsocks:
+      template: shadowsocks
+  sightmachine:
+    SimpleCV:
+      template: sightmachine
+  simon-weber:
+    gmusicapi:
+      template: simon-weber
+  sivel:
+    speedtest-cli:
+      template: sivel
+  sixohsix:
+    twitter:
+      template: sixohsix
+  sloria:
+    TextBlob:
+      template: sloria
+  snare:
+    voltron:
+      template: snare
+  soimort:
+    you-get:
+      template: soimort
+  sokolovstas:
+    SublimeWebInspector:
+      template: sokolovstas
+  somerandomdude:
+    Iconic:
+      template: somerandomdude
+  songrotek:
+    Deep-Learning-Papers-Reading-Roadmap:
+      template: songrotek
+  soumith:
+    convnet-benchmarks:
+      template: soumith
+  sovereign:
+    sovereign:
+      template: sovereign
+  spadgos:
+    sublime-jsdocs:
+      template: spadgos
+  spinnaker:
+    spinnaker:
+      template: spinnaker
+  spotify:
+    luigi:
+      template: spotify
+  spyder-ide:
+    spyder:
+      template: spyder-ide
+  sqlmapproject:
+    sqlmap:
+      template: sqlmapproject
+  sripathikrishnan:
+    redis-rdb-tools:
+      template: sripathikrishnan
+  sshwsfc:
+    xadmin:
+      template: sshwsfc
+  stamparm:
+    maltrail:
+      template: stamparm
+  statsmodels:
+    statsmodels:
+      template: statsmodels
+  stephenmcd:
+    mezzanine:
+      template: stephenmcd
+  sublimehq:
+    Packages:
+      template: sublimehq
+  sylnsfar:
+    qrcode:
+      template: sylnsfar
+  sympy:
+    sympy:
+      template: sympy
+  taigaio:
+    taiga-back:
+      template: taigaio
+  tangqiaoboy:
+    iOSBlogCN:
+      template: tangqiaoboy
+  taobao:
+    nginx-book:
+      template: taobao
+  tensorflow:
+    models:
+      template: tensorflow
+    skflow:
+      template: tensorflow
+  tflearn:
+    tflearn:
+      template: tflearn
+  tgalal:
+    yowsup:
+      template: tgalal
+  thearn:
+    webcam-pulse-detector:
+      template: thearn
+  thumbor:
+    thumbor:
+      template: thumbor
+  timgrossmann:
+    InstaPy:
+      template: timgrossmann
+  timothycrosley:
+    hug:
+      template: timothycrosley
+  tornadoweb:
+    tornado:
+      template: tornadoweb
+  tqdm:
+    tqdm:
+      template: tqdm
+  trustedsec:
+    social-engineer-toolkit:
+      template: trustedsec
+  tschellenbach:
+    Stream-Framework:
+      template: tschellenbach
+  tweepy:
+    tweepy:
+      template: tweepy
+  twisted:
+    twisted:
+      template: twisted
+  ujjwalkarn:
+    DataSciencePython:
+      template: ujjwalkarn
+  vinta:
+    awesome-python:
+      template: vinta
+  waditu:
+    tushare:
+      template: waditu
+  wagtail:
+    wagtail:
+      template: wagtail
+  wal-e:
+    wal-e:
+      template: wal-e
+  wbond:
+    package_control:
+      template: wbond
+  webpy:
+    webpy:
+      template: webpy
+  what-studio:
+    profiling:
+      template: what-studio
+  whtsky:
+    WeRoBot:
+      template: whtsky
+  wifiphisher:
+    wifiphisher:
+      template: wifiphisher
+  wireservice:
+    csvkit:
+      template: wireservice
+  worldveil:
+    dejavu:
+      template: worldveil
+  wrobstory:
+    vincent:
+      template: wrobstory
+  wting:
+    autojump:
+      template: wting
+  wuub:
+    SublimeREPL:
+      template: wuub
+  xchaoinfo:
+    fuck-login:
+      template: xchaoinfo
+  xiyouMc:
+    WebHubBot:
+      template: xiyouMc
+  xonsh:
+    xonsh:
+      template: xonsh
+  yahoo:
+    open_nsfw:
+      template: yahoo
+  yandex:
+    gixy:
+      template: yandex
+  yenchenlin:
+    DeepLearningFlappyBird:
+      template: yenchenlin
+  yhat:
+    ggpy:
+      template: yhat
+  yidao620c:
+    python3-cookbook:
+      template: yidao620c
+  youfou:
+    wxpy:
+      template: youfou
+  ytisf:
+    theZoo:
+      template: ytisf
+  yunjey:
+    pytorch-tutorial:
+      template: yunjey
+  zulip:
+    zulip:
+      template: zulip
+  zzzeek:
+    sqlalchemy:
+      template: zzzeek
