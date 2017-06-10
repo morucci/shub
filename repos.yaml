@@ -56,7 +56,7 @@ project-templates:
     uri: http://github.com/Eloston/%(name)s
   Gallopsled:
     branches:
-    - dev
+    - master
     gitweb: http://github.com/Gallopsled/%(name)s/commit/%%(sha)s
     uri: http://github.com/Gallopsled/%(name)s
   Guake:
@@ -139,6 +139,11 @@ project-templates:
     - master
     gitweb: http://github.com/MobileChromeApps/%(name)s/commit/%%(sha)s
     uri: http://github.com/MobileChromeApps/%(name)s
+  MongoEngine:
+    branches:
+    - master
+    gitweb: http://github.com/MongoEngine/%(name)s/commit/%%(sha)s
+    uri: http://github.com/MongoEngine/%(name)s
   NVIDIA:
     branches:
     - master
@@ -186,17 +191,17 @@ project-templates:
     uri: http://github.com/Qix-/%(name)s
   RaRe-Technologies:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/RaRe-Technologies/%(name)s/commit/%%(sha)s
     uri: http://github.com/RaRe-Technologies/%(name)s
   Rochester-NRT:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/Rochester-NRT/%(name)s/commit/%%(sha)s
     uri: http://github.com/Rochester-NRT/%(name)s
   RocketMap:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/RocketMap/%(name)s/commit/%%(sha)s
     uri: http://github.com/RocketMap/%(name)s
   Russell91:
@@ -211,7 +216,7 @@ project-templates:
     uri: http://github.com/Shougo/%(name)s
   SideBarEnhancements-org:
     branches:
-    - st3
+    - master
     gitweb: http://github.com/SideBarEnhancements-org/%(name)s/commit/%%(sha)s
     uri: http://github.com/SideBarEnhancements-org/%(name)s
   SirVer:
@@ -246,7 +251,7 @@ project-templates:
     uri: http://github.com/Theano/%(name)s
   Tribler:
     branches:
-    - devel
+    - master
     gitweb: http://github.com/Tribler/%(name)s/commit/%%(sha)s
     uri: http://github.com/Tribler/%(name)s
   USArmyResearchLab:
@@ -326,7 +331,7 @@ project-templates:
     uri: http://github.com/ajalt/%(name)s
   ajenti:
     branches:
-    - 1.x
+    - master
     gitweb: http://github.com/ajenti/%(name)s/commit/%%(sha)s
     uri: http://github.com/ajenti/%(name)s
   alexjc:
@@ -366,7 +371,7 @@ project-templates:
     uri: http://github.com/anishathalye/%(name)s
   ansible:
     branches:
-    - devel
+    - master
     gitweb: http://github.com/ansible/%(name)s/commit/%%(sha)s
     uri: http://github.com/ansible/%(name)s
   apache:
@@ -404,11 +409,6 @@ project-templates:
     - master
     gitweb: http://github.com/atlassian/%(name)s/commit/%%(sha)s
     uri: http://github.com/atlassian/%(name)s
-  audreyr:
-    branches:
-    - master
-    gitweb: http://github.com/audreyr/%(name)s/commit/%%(sha)s
-    uri: http://github.com/audreyr/%(name)s
   avinassh:
     branches:
     - master
@@ -421,7 +421,7 @@ project-templates:
     uri: http://github.com/awentzonline/%(name)s
   aws:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/aws/%(name)s/commit/%%(sha)s
     uri: http://github.com/aws/%(name)s
   awslabs:
@@ -471,7 +471,7 @@ project-templates:
     uri: http://github.com/borgbackup/%(name)s
   boto:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/boto/%(name)s/commit/%%(sha)s
     uri: http://github.com/boto/%(name)s
   bottlepy:
@@ -501,7 +501,7 @@ project-templates:
     uri: http://github.com/byt3bl33d3r/%(name)s
   carltongibson:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/carltongibson/%(name)s/commit/%%(sha)s
     uri: http://github.com/carltongibson/%(name)s
   celery:
@@ -531,14 +531,9 @@ project-templates:
     uri: http://github.com/chaosbot/%(name)s
   chrippa:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/chrippa/%(name)s/commit/%%(sha)s
     uri: http://github.com/chrippa/%(name)s
-  chrisallenlane:
-    branches:
-    - master
-    gitweb: http://github.com/chrisallenlane/%(name)s/commit/%%(sha)s
-    uri: http://github.com/chrisallenlane/%(name)s
   chriskiehl:
     branches:
     - master
@@ -676,12 +671,12 @@ project-templates:
     uri: http://github.com/diafygi/%(name)s
   digitalocean:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/digitalocean/%(name)s/commit/%%(sha)s
     uri: http://github.com/digitalocean/%(name)s
   divio:
     branches:
-    - release/3.4.x
+    - master
     gitweb: http://github.com/divio/%(name)s/commit/%%(sha)s
     uri: http://github.com/divio/%(name)s
   djaiss:
@@ -696,12 +691,12 @@ project-templates:
     uri: http://github.com/django/%(name)s
   django-compressor:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/django-compressor/%(name)s/commit/%%(sha)s
     uri: http://github.com/django-compressor/%(name)s
   django-crispy-forms:
     branches:
-    - dev
+    - master
     gitweb: http://github.com/django-crispy-forms/%(name)s/commit/%%(sha)s
     uri: http://github.com/django-crispy-forms/%(name)s
   django-extensions:
@@ -761,7 +756,7 @@ project-templates:
     uri: http://github.com/dschep/%(name)s
   dyve:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/dyve/%(name)s/commit/%%(sha)s
     uri: http://github.com/dyve/%(name)s
   eastlakeside:
@@ -796,7 +791,7 @@ project-templates:
     uri: http://github.com/encode/%(name)s
   equinusocio:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/equinusocio/%(name)s/commit/%%(sha)s
     uri: http://github.com/equinusocio/%(name)s
   eriklindernoren:
@@ -866,7 +861,7 @@ project-templates:
     uri: http://github.com/faif/%(name)s
   fail2ban:
     branches:
-    - '0.10'
+    - master
     gitweb: http://github.com/fail2ban/%(name)s/commit/%%(sha)s
     uri: http://github.com/fail2ban/%(name)s
   falconry:
@@ -916,12 +911,12 @@ project-templates:
     uri: http://github.com/fogleman/%(name)s
   frappe:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/frappe/%(name)s/commit/%%(sha)s
     uri: http://github.com/frappe/%(name)s
   freedomofpress:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/freedomofpress/%(name)s/commit/%%(sha)s
     uri: http://github.com/freedomofpress/%(name)s
   fxsjy:
@@ -986,7 +981,7 @@ project-templates:
     uri: http://github.com/gongjianhui/%(name)s
   google:
     branches:
-    - dev
+    - master
     gitweb: http://github.com/google/%(name)s/commit/%%(sha)s
     uri: http://github.com/google/%(name)s
   gorakhargosh:
@@ -1036,7 +1031,7 @@ project-templates:
     uri: http://github.com/hhatto/%(name)s
   home-assistant:
     branches:
-    - dev
+    - master
     gitweb: http://github.com/home-assistant/%(name)s/commit/%%(sha)s
     uri: http://github.com/home-assistant/%(name)s
   honza:
@@ -1109,6 +1104,11 @@ project-templates:
     - master
     gitweb: http://github.com/jakubroztocil/%(name)s/commit/%%(sha)s
     uri: http://github.com/jakubroztocil/%(name)s
+  jaredks:
+    branches:
+    - master
+    gitweb: http://github.com/jaredks/%(name)s/commit/%%(sha)s
+    uri: http://github.com/jaredks/%(name)s
   jasperproject:
     branches:
     - master
@@ -1126,7 +1126,7 @@ project-templates:
     uri: http://github.com/jazzband/%(name)s
   jeanphix:
     branches:
-    - dev
+    - master
     gitweb: http://github.com/jeanphix/%(name)s/commit/%%(sha)s
     uri: http://github.com/jeanphix/%(name)s
   jeffkaufman:
@@ -1136,7 +1136,7 @@ project-templates:
     uri: http://github.com/jeffkaufman/%(name)s
   jeffknupp:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/jeffknupp/%(name)s/commit/%%(sha)s
     uri: http://github.com/jeffknupp/%(name)s
   jgm:
@@ -1344,11 +1344,6 @@ project-templates:
     - master
     gitweb: http://github.com/livid/%(name)s/commit/%%(sha)s
     uri: http://github.com/livid/%(name)s
-  lk-geimfari:
-    branches:
-    - master
-    gitweb: http://github.com/lk-geimfari/%(name)s/commit/%%(sha)s
-    uri: http://github.com/lk-geimfari/%(name)s
   locustio:
     branches:
     - master
@@ -1389,6 +1384,11 @@ project-templates:
     - master
     gitweb: http://github.com/mantl/%(name)s/commit/%%(sha)s
     uri: http://github.com/mantl/%(name)s
+  marshmallow-code:
+    branches:
+    - master
+    gitweb: http://github.com/marshmallow-code/%(name)s/commit/%%(sha)s
+    uri: http://github.com/marshmallow-code/%(name)s
   martinblech:
     branches:
     - master
@@ -1426,7 +1426,7 @@ project-templates:
     uri: http://github.com/micahflee/%(name)s
   midgetspy:
     branches:
-    - development
+    - master
     gitweb: http://github.com/midgetspy/%(name)s/commit/%%(sha)s
     uri: http://github.com/midgetspy/%(name)s
   miguelgrinberg:
@@ -1486,19 +1486,14 @@ project-templates:
     uri: http://github.com/mooz/%(name)s
   mopidy:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/mopidy/%(name)s/commit/%%(sha)s
     uri: http://github.com/mopidy/%(name)s
   mps-youtube:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/mps-youtube/%(name)s/commit/%%(sha)s
     uri: http://github.com/mps-youtube/%(name)s
-  mwaskom:
-    branches:
-    - master
-    gitweb: http://github.com/mwaskom/%(name)s/commit/%%(sha)s
-    uri: http://github.com/mwaskom/%(name)s
   n1nj4sec:
     branches:
     - master
@@ -1526,7 +1521,7 @@ project-templates:
     uri: http://github.com/nicolargo/%(name)s
   nltk:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/nltk/%(name)s/commit/%%(sha)s
     uri: http://github.com/nltk/%(name)s
   noamraph:
@@ -1576,7 +1571,7 @@ project-templates:
     uri: http://github.com/nylas/%(name)s
   odoo:
     branches:
-    - '10.0'
+    - master
     gitweb: http://github.com/odoo/%(name)s/commit/%%(sha)s
     uri: http://github.com/odoo/%(name)s
   omab:
@@ -1591,7 +1586,7 @@ project-templates:
     uri: http://github.com/openai/%(name)s
   openpaperwork:
     branches:
-    - unstable
+    - master
     gitweb: http://github.com/openpaperwork/%(name)s/commit/%%(sha)s
     uri: http://github.com/openpaperwork/%(name)s
   openstack:
@@ -1656,7 +1651,7 @@ project-templates:
     uri: http://github.com/plasma-disassembler/%(name)s
   platformio:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/platformio/%(name)s/commit/%%(sha)s
     uri: http://github.com/platformio/%(name)s
   plotly:
@@ -1671,7 +1666,7 @@ project-templates:
     uri: http://github.com/posativ/%(name)s
   powerline:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/powerline/%(name)s/commit/%%(sha)s
     uri: http://github.com/powerline/%(name)s
   prakhar1989:
@@ -1706,7 +1701,7 @@ project-templates:
     uri: http://github.com/pyeve/%(name)s
   pyinstaller:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/pyinstaller/%(name)s/commit/%%(sha)s
     uri: http://github.com/pyinstaller/%(name)s
   pymc-devs:
@@ -1726,7 +1721,7 @@ project-templates:
     uri: http://github.com/python/%(name)s
   python-mode:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/python-mode/%(name)s/commit/%%(sha)s
     uri: http://github.com/python-mode/%(name)s
   python-pillow:
@@ -1851,7 +1846,7 @@ project-templates:
     uri: http://github.com/s3tools/%(name)s
   saltstack:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/saltstack/%(name)s/commit/%%(sha)s
     uri: http://github.com/saltstack/%(name)s
   samshadwell:
@@ -1889,11 +1884,6 @@ project-templates:
     - master
     gitweb: http://github.com/scipy/%(name)s/commit/%%(sha)s
     uri: http://github.com/scipy/%(name)s
-  scrapinghub:
-    branches:
-    - master
-    gitweb: http://github.com/scrapinghub/%(name)s/commit/%%(sha)s
-    uri: http://github.com/scrapinghub/%(name)s
   scrapy:
     branches:
     - master
@@ -1911,7 +1901,7 @@ project-templates:
     uri: http://github.com/seatgeek/%(name)s
   shadowsocks:
     branches:
-    - rm
+    - master
     gitweb: http://github.com/shadowsocks/%(name)s/commit/%%(sha)s
     uri: http://github.com/shadowsocks/%(name)s
   sightmachine:
@@ -1919,11 +1909,6 @@ project-templates:
     - master
     gitweb: http://github.com/sightmachine/%(name)s/commit/%%(sha)s
     uri: http://github.com/sightmachine/%(name)s
-  simon-weber:
-    branches:
-    - develop
-    gitweb: http://github.com/simon-weber/%(name)s/commit/%%(sha)s
-    uri: http://github.com/simon-weber/%(name)s
   sivel:
     branches:
     - master
@@ -1936,7 +1921,7 @@ project-templates:
     uri: http://github.com/sixohsix/%(name)s
   sloria:
     branches:
-    - dev
+    - master
     gitweb: http://github.com/sloria/%(name)s/commit/%%(sha)s
     uri: http://github.com/sloria/%(name)s
   snare:
@@ -1946,12 +1931,12 @@ project-templates:
     uri: http://github.com/snare/%(name)s
   soimort:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/soimort/%(name)s/commit/%%(sha)s
     uri: http://github.com/soimort/%(name)s
   sokolovstas:
     branches:
-    - ST3
+    - master
     gitweb: http://github.com/sokolovstas/%(name)s/commit/%%(sha)s
     uri: http://github.com/sokolovstas/%(name)s
   somerandomdude:
@@ -2071,7 +2056,7 @@ project-templates:
     uri: http://github.com/tgalal/%(name)s
   thearn:
     branches:
-    - no_openmdao
+    - master
     gitweb: http://github.com/thearn/%(name)s/commit/%%(sha)s
     uri: http://github.com/thearn/%(name)s
   thumbor:
@@ -2086,7 +2071,7 @@ project-templates:
     uri: http://github.com/timgrossmann/%(name)s
   timothycrosley:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/timothycrosley/%(name)s/commit/%%(sha)s
     uri: http://github.com/timothycrosley/%(name)s
   tornadoweb:
@@ -2116,7 +2101,7 @@ project-templates:
     uri: http://github.com/tweepy/%(name)s
   twisted:
     branches:
-    - trunk
+    - master
     gitweb: http://github.com/twisted/%(name)s/commit/%%(sha)s
     uri: http://github.com/twisted/%(name)s
   ujjwalkarn:
@@ -2124,6 +2109,11 @@ project-templates:
     - master
     gitweb: http://github.com/ujjwalkarn/%(name)s/commit/%%(sha)s
     uri: http://github.com/ujjwalkarn/%(name)s
+  viewfinderco:
+    branches:
+    - master
+    gitweb: http://github.com/viewfinderco/%(name)s/commit/%%(sha)s
+    uri: http://github.com/viewfinderco/%(name)s
   vinta:
     branches:
     - master
@@ -2161,7 +2151,7 @@ project-templates:
     uri: http://github.com/what-studio/%(name)s
   whtsky:
     branches:
-    - develop
+    - master
     gitweb: http://github.com/whtsky/%(name)s/commit/%%(sha)s
     uri: http://github.com/whtsky/%(name)s
   wifiphisher:
@@ -2249,6 +2239,11 @@ project-templates:
     - master
     gitweb: http://github.com/yunjey/%(name)s/commit/%%(sha)s
     uri: http://github.com/yunjey/%(name)s
+  zsdonghao:
+    branches:
+    - master
+    gitweb: http://github.com/zsdonghao/%(name)s/commit/%%(sha)s
+    uri: http://github.com/zsdonghao/%(name)s
   zulip:
     branches:
     - master
@@ -2262,1471 +2257,2488 @@ project-templates:
 projects:
   0rpc:
     zerorpc-python:
+      branches:
+      - master
       template: 0rpc
   '0x5e':
     wechat-deleted-friends:
+      branches:
+      - master
       template: '0x5e'
   10se1ucgo:
     DisableWinTracking:
+      branches:
+      - master
       template: 10se1ucgo
   521xueweihan:
     HelloGitHub:
+      branches:
+      - master
       template: 521xueweihan
   AlessandroZ:
     LaZagne:
+      branches:
+      - master
       template: AlessandroZ
   AppScale:
     appscale:
+      branches:
+      - master
       template: AppScale
   Bitmessage:
     PyBitmessage:
+      branches:
+      - master
       template: Bitmessage
   ClusterHQ:
     flocker:
+      branches:
+      - master
       template: ClusterHQ
   CouchPotato:
     CouchPotatoServer:
+      branches:
+      - master
       template: CouchPotato
   DanMcInerney:
     wifijammer:
+      branches:
+      - master
       template: DanMcInerney
   Eloston:
     ungoogled-chromium:
+      branches:
+      - master
       template: Eloston
   Gallopsled:
     pwntools:
+      branches:
+      - dev
       template: Gallopsled
   Guake:
     guake:
+      branches:
+      - master
       template: Guake
   HelloZeroNet:
     ZeroNet:
+      branches:
+      - master
       template: HelloZeroNet
   Hironsan:
     BossSensor:
+      branches:
+      - master
       template: Hironsan
   HypothesisWorks:
     hypothesis-python:
+      branches:
+      - master
       template: HypothesisWorks
   Jahaja:
     psdash:
+      branches:
+      - master
       template: Jahaja
   JakeWharton:
     pidcat:
+      branches:
+      - master
       template: JakeWharton
   JuanPotato:
     Legofy:
+      branches:
+      - master
       template: JuanPotato
   Katee:
     quietnet:
+      branches:
+      - master
       template: Katee
   KeyboardFire:
     mkcast:
+      branches:
+      - master
       template: KeyboardFire
   Kinto:
     kinto:
+      branches:
+      - master
       template: Kinto
   Lasagne:
     Lasagne:
+      branches:
+      - master
       template: Lasagne
   LewisVo:
     Awesome-Linux-Software:
+      branches:
+      - master
       template: LewisVo
   MagicStack:
     asyncpg:
+      branches:
+      - master
       template: MagicStack
     uvloop:
+      branches:
+      - master
       template: MagicStack
   Miserlou:
     Zappa:
+      branches:
+      - master
       template: Miserlou
   MobSF:
     Mobile-Security-Framework-MobSF:
+      branches:
+      - master
       template: MobSF
   MobileChromeApps:
     mobile-chrome-apps:
+      branches:
+      - master
       template: MobileChromeApps
+  MongoEngine:
+    mongoengine:
+      branches:
+      - master
+      template: MongoEngine
   NVIDIA:
     DIGITS:
+      branches:
+      - master
       template: NVIDIA
   NervanaSystems:
     neon:
+      branches:
+      - master
       template: NervanaSystems
   Newmu:
     dcgan_code:
+      branches:
+      - master
       template: Newmu
   PeterDing:
     iScript:
+      branches:
+      - master
       template: PeterDing
   PokemonGoF:
     PokemonGo-Bot:
+      branches:
+      - master
       template: PokemonGoF
   PyCQA:
     pycodestyle:
+      branches:
+      - master
       template: PyCQA
   PyMySQL:
     PyMySQL:
+      branches:
+      - master
       template: PyMySQL
   Pylons:
     pyramid:
+      branches:
+      - master
       template: Pylons
   Qix-:
     better-exceptions:
+      branches:
+      - master
       template: Qix-
   RaRe-Technologies:
     gensim:
+      branches:
+      - develop
       template: RaRe-Technologies
   Rochester-NRT:
     RocAlphaGo:
+      branches:
+      - develop
       template: Rochester-NRT
   RocketMap:
     RocketMap:
+      branches:
+      - develop
       template: RocketMap
   Russell91:
     pythonpy:
+      branches:
+      - master
       template: Russell91
   Shougo:
     deoplete.nvim:
+      branches:
+      - master
       template: Shougo
   SideBarEnhancements-org:
     SideBarEnhancements:
+      branches:
+      - st3
       template: SideBarEnhancements-org
   SirVer:
     ultisnips:
+      branches:
+      - master
       template: SirVer
   StackStorm:
     st2:
+      branches:
+      - master
       template: StackStorm
   SublimeCodeIntel:
     SublimeCodeIntel:
+      branches:
+      - master
       template: SublimeCodeIntel
   SublimeText-Markdown:
     MarkdownEditing:
+      branches:
+      - master
       template: SublimeText-Markdown
   Supervisor:
     supervisor:
+      branches:
+      - master
       template: Supervisor
   Theano:
     Theano:
+      branches:
+      - master
       template: Theano
   Tribler:
     tribler:
+      branches:
+      - devel
       template: Tribler
   USArmyResearchLab:
     Dshell:
+      branches:
+      - master
       template: USArmyResearchLab
   Uberi:
     speech_recognition:
+      branches:
+      - master
       template: Uberi
   Urinx:
     WeixinBot:
+      branches:
+      - master
       template: Urinx
   Valloric:
     YouCompleteMe:
+      branches:
+      - master
       template: Valloric
   VitaliyRodnenko:
     geeknote:
+      branches:
+      - master
       template: VitaliyRodnenko
   XX-net:
     XX-Net:
+      branches:
+      - master
       template: XX-net
   Yelp:
     dumb-init:
+      branches:
+      - master
       template: Yelp
     elastalert:
+      branches:
+      - master
       template: Yelp
     mrjob:
+      branches:
+      - master
       template: Yelp
   Zulko:
     moviepy:
+      branches:
+      - master
       template: Zulko
   a1studmuffin:
     SpaceshipGenerator:
+      branches:
+      - master
       template: a1studmuffin
   adobe-fonts:
     source-code-pro:
+      branches:
+      - master
       template: adobe-fonts
   affinelayer:
     pix2pix-tensorflow:
+      branches:
+      - master
       template: affinelayer
   ageitgey:
     face_recognition:
+      branches:
+      - master
       template: ageitgey
   aio-libs:
     aiohttp:
+      branches:
+      - master
       template: aio-libs
   airbnb:
     knowledge-repo:
+      branches:
+      - master
       template: airbnb
     superset:
+      branches:
+      - master
       template: airbnb
   ajalt:
     fuckitpy:
+      branches:
+      - master
       template: ajalt
   ajenti:
     ajenti:
+      branches:
+      - 1.x
       template: ajenti
   alexjc:
     neural-doodle:
+      branches:
+      - master
       template: alexjc
     neural-enhance:
+      branches:
+      - master
       template: alexjc
   amoffat:
     sh:
+      branches:
+      - master
       template: amoffat
   amperser:
     proselint:
+      branches:
+      - master
       template: amperser
   amscanne:
     huptime:
+      branches:
+      - master
       template: amscanne
   amueller:
     word_cloud:
+      branches:
+      - master
       template: amueller
   andymccurdy:
     redis-py:
+      branches:
+      - master
       template: andymccurdy
   anishathalye:
     git-remote-dropbox:
+      branches:
+      - master
       template: anishathalye
     neural-style:
+      branches:
+      - master
       template: anishathalye
   ansible:
     ansible:
+      branches:
+      - devel
       template: ansible
   apache:
     incubator-airflow:
+      branches:
+      - master
       template: apache
   apenwarr:
     sshuttle:
+      branches:
+      - master
       template: apenwarr
   apprenticeharper:
     DeDRM_tools:
+      branches:
+      - master
       template: apprenticeharper
   arielf:
     weight-loss:
+      branches:
+      - master
       template: arielf
   asciimoo:
     drawille:
+      branches:
+      - master
       template: asciimoo
     searx:
+      branches:
+      - master
       template: asciimoo
   asciinema:
     asciinema:
+      branches:
+      - master
       template: asciinema
   atlassian:
     localstack:
+      branches:
+      - master
       template: atlassian
-  audreyr:
-    cookiecutter:
-      template: audreyr
   avinassh:
     rockstar:
+      branches:
+      - master
       template: avinassh
   awentzonline:
     image-analogies:
+      branches:
+      - master
       template: awentzonline
   aws:
     aws-cli:
+      branches:
+      - develop
       template: aws
   awslabs:
     aws-shell:
+      branches:
+      - master
       template: awslabs
     chalice:
+      branches:
+      - master
       template: awslabs
   aziz:
     PlainTasks:
+      branches:
+      - master
       template: aziz
   banga:
     powerline-shell:
+      branches:
+      - master
       template: banga
   beetbox:
     beets:
+      branches:
+      - master
       template: beetbox
   benoitc:
     gunicorn:
+      branches:
+      - master
       template: benoitc
   binux:
     pyspider:
+      branches:
+      - master
       template: binux
   blaze:
     blaze:
+      branches:
+      - master
       template: blaze
   bokeh:
     bokeh:
+      branches:
+      - master
       template: bokeh
   borgbackup:
     borg:
+      branches:
+      - master
       template: borgbackup
   boto:
     boto:
+      branches:
+      - develop
       template: boto
     boto3:
+      branches:
+      - develop
       template: boto
   bottlepy:
     bottle:
+      branches:
+      - master
       template: bottlepy
   buildbot:
     buildbot:
+      branches:
+      - master
       template: buildbot
   bup:
     bup:
+      branches:
+      - master
       template: bup
   burnash:
     gspread:
+      branches:
+      - master
       template: burnash
   byt3bl33d3r:
     MITMf:
+      branches:
+      - master
       template: byt3bl33d3r
   carltongibson:
     django-filter:
+      branches:
+      - develop
       template: carltongibson
   celery:
     celery:
+      branches:
+      - master
       template: celery
   certbot:
     certbot:
+      branches:
+      - master
       template: certbot
   chainer:
     chainer:
+      branches:
+      - master
       template: chainer
   channelcat:
     sanic:
+      branches:
+      - master
       template: channelcat
   chaosbot:
     Chaos:
+      branches:
+      - master
       template: chaosbot
   chrippa:
     livestreamer:
+      branches:
+      - develop
       template: chrippa
-  chrisallenlane:
-    cheat:
-      template: chrisallenlane
   chriskiehl:
     Gooey:
+      branches:
+      - master
       template: chriskiehl
   chrissimpkins:
     Hack:
+      branches:
+      - master
       template: chrissimpkins
     codeface:
+      branches:
+      - master
       template: chrissimpkins
   christabor:
     flask_jsondash:
+      branches:
+      - master
       template: christabor
   chubin:
     wttr.in:
+      branches:
+      - master
       template: chubin
   clips:
     pattern:
+      branches:
+      - master
       template: clips
   cloudera:
     hue:
+      branches:
+      - master
       template: cloudera
   cloudtools:
     troposphere:
+      branches:
+      - master
       template: cloudtools
   codelucas:
     newspaper:
+      branches:
+      - master
       template: codelucas
   coleifer:
     peewee:
+      branches:
+      - master
       template: coleifer
   commaai:
     research:
+      branches:
+      - master
       template: commaai
   coursera-dl:
     coursera-dl:
+      branches:
+      - master
       template: coursera-dl
   crsmithdev:
     arrow:
+      branches:
+      - master
       template: crsmithdev
   cyrus-and:
     gdb-dashboard:
+      branches:
+      - master
       template: cyrus-and
   cython:
     cython:
+      branches:
+      - master
       template: cython
   dabeaz:
     curio:
+      branches:
+      - master
       template: dabeaz
   dae:
     anki:
+      branches:
+      - master
       template: dae
   darknessomi:
     musicbox:
+      branches:
+      - master
       template: darknessomi
   david-gpu:
     srez:
+      branches:
+      - master
       template: david-gpu
   davidhalter:
     jedi:
+      branches:
+      - master
       template: davidhalter
   dbader:
     schedule:
+      branches:
+      - master
       template: dbader
   dbcli:
     mycli:
+      branches:
+      - master
       template: dbcli
     pgcli:
+      branches:
+      - master
       template: dbcli
   deepmind:
     learning-to-learn:
+      branches:
+      - master
       template: deepmind
     sonnet:
+      branches:
+      - master
       template: deepmind
   deis:
     deis:
+      branches:
+      - master
       template: deis
   detailyang:
     awesome-cheatsheet:
+      branches:
+      - master
       template: detailyang
   devstructure:
     blueprint:
+      branches:
+      - master
       template: devstructure
   devttys0:
     binwalk:
+      branches:
+      - master
       template: devttys0
   diafygi:
     acme-tiny:
+      branches:
+      - master
       template: diafygi
   digitalocean:
     netbox:
+      branches:
+      - develop
       template: digitalocean
   divio:
     django-cms:
+      branches:
+      - release/3.4.x
       template: divio
   djaiss:
     mapsicon:
+      branches:
+      - master
       template: djaiss
   django:
     channels:
+      branches:
+      - master
       template: django
     django:
+      branches:
+      - master
       template: django
   django-compressor:
     django-compressor:
+      branches:
+      - develop
       template: django-compressor
   django-crispy-forms:
     django-crispy-forms:
+      branches:
+      - dev
       template: django-crispy-forms
   django-extensions:
     django-extensions:
+      branches:
+      - master
       template: django-extensions
   django-haystack:
     django-haystack:
+      branches:
+      - master
       template: django-haystack
   django-oscar:
     django-oscar:
+      branches:
+      - master
       template: django-oscar
   django-tastypie:
     django-tastypie:
+      branches:
+      - master
       template: django-tastypie
   docker:
     compose:
+      branches:
+      - master
       template: docker
     docker-py:
+      branches:
+      - master
       template: docker
     docker-registry:
+      branches:
+      - master
       template: docker
   docopt:
     docopt:
+      branches:
+      - master
       template: docopt
   donnemartin:
     awesome-aws:
+      branches:
+      - master
       template: donnemartin
     data-science-ipython-notebooks:
+      branches:
+      - master
       template: donnemartin
     dev-setup:
+      branches:
+      - master
       template: donnemartin
     gitsome:
+      branches:
+      - master
       template: donnemartin
     haxor-news:
+      branches:
+      - master
       template: donnemartin
     interactive-coding-challenges:
+      branches:
+      - master
       template: donnemartin
     saws:
+      branches:
+      - master
       template: donnemartin
     system-design-primer:
+      branches:
+      - master
       template: donnemartin
   douban:
     dpark:
+      branches:
+      - master
       template: douban
   drduh:
     macOS-Security-and-Privacy-Guide:
+      branches:
+      - master
       template: drduh
   dropbox:
     pyston:
+      branches:
+      - master
       template: dropbox
   dschep:
     ntfy:
+      branches:
+      - master
       template: dschep
   dyve:
     django-bootstrap3:
+      branches:
+      - develop
       template: dyve
   eastlakeside:
     interpy-zh:
+      branches:
+      - master
       template: eastlakeside
   edx:
     edx-platform:
+      branches:
+      - master
       template: edx
   eliangcs:
     http-prompt:
+      branches:
+      - master
       template: eliangcs
   emirozer:
     fake2db:
+      branches:
+      - master
       template: emirozer
   emre:
     storm:
+      branches:
+      - master
       template: emre
   encode:
     django-rest-framework:
+      branches:
+      - master
       template: encode
   equinusocio:
     material-theme:
+      branches:
+      - develop
       template: equinusocio
   eriklindernoren:
     ML-From-Scratch:
+      branches:
+      - master
       template: eriklindernoren
   etianen:
     django-reversion:
+      branches:
+      - master
       template: etianen
   etsy:
     logster:
+      branches:
+      - master
       template: etsy
     skyline:
+      branches:
+      - master
       template: etsy
   eudicots:
     Cactus:
+      branches:
+      - master
       template: eudicots
   euske:
     pdfminer:
+      branches:
+      - master
       template: euske
   evilsocket:
     opensnitch:
+      branches:
+      - master
       template: evilsocket
   explosion:
     spaCy:
+      branches:
+      - master
       template: explosion
   fabric:
     fabric:
+      branches:
+      - master
       template: fabric
   facebook:
     PathPicker:
+      branches:
+      - master
       template: facebook
     augmented-traffic-control:
+      branches:
+      - master
       template: facebook
     chisel:
+      branches:
+      - master
       template: facebook
   facebookarchive:
     huxley:
+      branches:
+      - master
       template: facebookarchive
     python-instagram:
+      branches:
+      - master
       template: facebookarchive
   facebookincubator:
     prophet:
+      branches:
+      - master
       template: facebookincubator
   facebookresearch:
     ParlAI:
+      branches:
+      - master
       template: facebookresearch
   faif:
     python-patterns:
+      branches:
+      - master
       template: faif
   fail2ban:
     fail2ban:
+      branches:
+      - '0.10'
       template: fail2ban
   falconry:
     falcon:
+      branches:
+      - master
       template: falconry
   fastmonkeys:
     stellar:
+      branches:
+      - master
       template: fastmonkeys
   fchollet:
     deep-learning-models:
+      branches:
+      - master
       template: fchollet
     keras:
+      branches:
+      - master
       template: fchollet
   feross:
     SpoofMAC:
+      branches:
+      - master
       template: feross
   fivesheep:
     chnroutes:
+      branches:
+      - master
       template: fivesheep
   flask-admin:
     flask-admin:
+      branches:
+      - master
       template: flask-admin
   flask-restful:
     flask-restful:
+      branches:
+      - master
       template: flask-restful
   floydhub:
     dl-docker:
+      branches:
+      - master
       template: floydhub
   fogleman:
     Minecraft:
+      branches:
+      - master
       template: fogleman
   frappe:
     erpnext:
+      branches:
+      - develop
       template: frappe
   freedomofpress:
     securedrop:
+      branches:
+      - develop
       template: freedomofpress
   fxsjy:
     jieba:
+      branches:
+      - master
       template: fxsjy
   gaubert:
     gmvault:
+      branches:
+      - master
       template: gaubert
   geekcomputers:
     Python:
+      branches:
+      - master
       template: geekcomputers
   gelstudios:
     gitfiti:
+      branches:
+      - master
       template: gelstudios
   getpelican:
     pelican:
+      branches:
+      - master
       template: getpelican
   getredash:
     redash:
+      branches:
+      - master
       template: getredash
   getsentry:
     sentry:
+      branches:
+      - master
       template: getsentry
   gevent:
     gevent:
+      branches:
+      - master
       template: gevent
   giampaolo:
     psutil:
+      branches:
+      - master
       template: giampaolo
   gleitz:
     howdoi:
+      branches:
+      - master
       template: gleitz
   gnemoug:
     distribute_crawler:
+      branches:
+      - master
       template: gnemoug
   gongjianhui:
     AppleDNS:
+      branches:
+      - master
       template: gongjianhui
   google:
     enjarify:
+      branches:
+      - master
       template: google
     grr:
+      branches:
+      - master
       template: google
     nogotofail:
+      branches:
+      - dev
       template: google
     python-fire:
+      branches:
+      - master
       template: google
     roboto:
+      branches:
+      - master
       template: google
     seq2seq:
+      branches:
+      - master
       template: google
     yapf:
+      branches:
+      - master
       template: google
   gorakhargosh:
     watchdog:
+      branches:
+      - master
       template: gorakhargosh
   graphific:
     DeepDreamVideo:
+      branches:
+      - master
       template: graphific
   graphql-python:
     graphene:
+      branches:
+      - master
       template: graphql-python
   gregmalcolm:
     python_koans:
+      branches:
+      - master
       template: gregmalcolm
   gunthercox:
     ChatterBot:
+      branches:
+      - master
       template: gunthercox
   hanc00l:
     wooyun_public:
+      branches:
+      - master
       template: hanc00l
   harelba:
     q:
+      branches:
+      - master
       template: harelba
   hephaest0s:
     usbkill:
+      branches:
+      - master
       template: hephaest0s
   hhatto:
     autopep8:
+      branches:
+      - master
       template: hhatto
   home-assistant:
     home-assistant:
+      branches:
+      - dev
       template: home-assistant
   honza:
     vim-snippets:
+      branches:
+      - master
       template: honza
   houtianze:
     bypy:
+      branches:
+      - master
       template: houtianze
   humphd:
     have-fun-with-machine-learning:
+      branches:
+      - master
       template: humphd
   huntergregal:
     mimipenguin:
+      branches:
+      - master
       template: huntergregal
   hylang:
     hy:
+      branches:
+      - master
       template: hylang
   i-tu:
     Hasklig:
+      branches:
+      - master
       template: i-tu
   iBaa:
     PlexConnect:
+      branches:
+      - master
       template: iBaa
   iambus:
     xunlei-lixian:
+      branches:
+      - master
       template: iambus
   ibab:
     tensorflow-wavenet:
+      branches:
+      - master
       template: ibab
   idank:
     explainshell:
+      branches:
+      - master
       template: idank
   ipython:
     ipython:
+      branches:
+      - master
       template: ipython
   isnowfy:
     snownlp:
+      branches:
+      - master
       template: isnowfy
   isocpp:
     CppCoreGuidelines:
+      branches:
+      - master
       template: isocpp
   jakubroztocil:
     httpie:
+      branches:
+      - master
       template: jakubroztocil
+  jaredks:
+    rumps:
+      branches:
+      - master
+      template: jaredks
   jasperproject:
     jasper-client:
+      branches:
+      - master
       template: jasperproject
   jayfk:
     statuspage:
+      branches:
+      - master
       template: jayfk
   jazzband:
     django-debug-toolbar:
+      branches:
+      - master
       template: jazzband
     pip-tools:
+      branches:
+      - master
       template: jazzband
   jeanphix:
     Ghost.py:
+      branches:
+      - dev
       template: jeanphix
   jeffkaufman:
     icdiff:
+      branches:
+      - master
       template: jeffkaufman
   jeffknupp:
     sandman:
+      branches:
+      - develop
       template: jeffknupp
   jgm:
     CommonMark:
+      branches:
+      - master
       template: jgm
   jiaaro:
     pydub:
+      branches:
+      - master
       template: jiaaro
   jisaacks:
     GitGutter:
+      branches:
+      - master
       template: jisaacks
   jmcarp:
     robobrowser:
+      branches:
+      - master
       template: jmcarp
   joelgrus:
     data-science-from-scratch:
+      branches:
+      - master
       template: joelgrus
   joestump:
     python-oauth2:
+      branches:
+      - master
       template: joestump
   joke2k:
     faker:
+      branches:
+      - master
       template: joke2k
   jokkedk:
     webgrind:
+      branches:
+      - master
       template: jokkedk
   jonathanslenders:
     ptpython:
+      branches:
+      - master
       template: jonathanslenders
     python-prompt-toolkit:
+      branches:
+      - master
       template: jonathanslenders
     pyvim:
+      branches:
+      - master
       template: jonathanslenders
   jopohl:
     urh:
+      branches:
+      - master
       template: jopohl
   jorgebastida:
     glue:
+      branches:
+      - master
       template: jorgebastida
     gordon:
+      branches:
+      - master
       template: jorgebastida
   josephmisiti:
     awesome-machine-learning:
+      branches:
+      - master
       template: josephmisiti
   joshnewlan:
     say_what:
+      branches:
+      - master
       template: joshnewlan
   jostmey:
     NakedTensor:
+      branches:
+      - master
       template: jostmey
   jsvine:
     waybackpack:
+      branches:
+      - master
       template: jsvine
   junyanz:
     iGAN:
+      branches:
+      - master
       template: junyanz
   jupyterhub:
     jupyterhub:
+      branches:
+      - master
       template: jupyterhub
   jwilder:
     nginx-proxy:
+      branches:
+      - master
       template: jwilder
   kachayev:
     fn.py:
+      branches:
+      - master
       template: kachayev
   kamyu104:
     LeetCode:
+      branches:
+      - master
       template: kamyu104
   karpathy:
     neuraltalk:
+      branches:
+      - master
       template: karpathy
   kbengine:
     kbengine:
+      branches:
+      - master
       template: kbengine
   kemayo:
     sublime-text-git:
+      branches:
+      - master
       template: kemayo
   kennethreitz:
     clint:
+      branches:
+      - master
       template: kennethreitz
     envoy:
+      branches:
+      - master
       template: kennethreitz
     grequests:
+      branches:
+      - master
       template: kennethreitz
     httpbin:
+      branches:
+      - master
       template: kennethreitz
     legit:
+      branches:
+      - develop
       template: kennethreitz
     osx-gcc-installer:
+      branches:
+      - master
       template: kennethreitz
     pipenv:
+      branches:
+      - master
       template: kennethreitz
     records:
+      branches:
+      - master
       template: kennethreitz
     tablib:
+      branches:
+      - master
       template: kennethreitz
   keon:
     algorithms:
+      branches:
+      - master
       template: keon
   kivy:
     kivy:
+      branches:
+      - master
       template: kivy
     python-for-android:
+      branches:
+      - master
       template: kivy
   kootenpv:
     whereami:
+      branches:
+      - master
       template: kootenpv
   kovidgoyal:
     calibre:
+      branches:
+      - master
       template: kovidgoyal
   kstenerud:
     iOS-Universal-Framework:
+      branches:
+      - master
       template: kstenerud
   kylemcdonald:
     FreeWifi:
+      branches:
+      - master
       template: kylemcdonald
   larsenwork:
     monoid:
+      branches:
+      - master
       template: larsenwork
   lauris:
     awesome-scala:
+      branches:
+      - master
       template: lauris
   lbryio:
     lbry:
+      branches:
+      - master
       template: lbryio
   lebinh:
     ngxtop:
+      branches:
+      - master
       template: lebinh
   lektor:
     lektor:
+      branches:
+      - master
       template: lektor
   lengstrom:
     fast-style-transfer:
+      branches:
+      - master
       template: lengstrom
   lihaoyi:
     macropy:
+      branches:
+      - master
       template: lihaoyi
   lisa-lab:
     DeepLearningTutorials:
+      branches:
+      - master
       template: lisa-lab
     pylearn2:
+      branches:
+      - master
       template: lisa-lab
   littlecodersh:
     ItChat:
+      branches:
+      - master
       template: littlecodersh
   liuwons:
     wxBot:
+      branches:
+      - master
       template: liuwons
   livid:
     v2ex:
+      branches:
+      - master
       template: livid
-  lk-geimfari:
-    awesomo:
-      template: lk-geimfari
   locustio:
     locust:
+      branches:
+      - master
       template: locustio
   longld:
     peda:
+      branches:
+      - master
       template: longld
   lra:
     mackup:
+      branches:
+      - master
       template: lra
   maebert:
     jrnl:
+      branches:
+      - master
       template: maebert
   mahmoud:
     boltons:
+      branches:
+      - master
       template: mahmoud
   mail-in-a-box:
     mailinabox:
+      branches:
+      - master
       template: mail-in-a-box
   mailpile:
     Mailpile:
+      branches:
+      - master
       template: mailpile
   mantl:
     mantl:
+      branches:
+      - master
       template: mantl
+  marshmallow-code:
+    marshmallow:
+      branches:
+      - dev
+      template: marshmallow-code
   martinblech:
     xmltodict:
+      branches:
+      - master
       template: martinblech
   matplotlib:
     matplotlib:
+      branches:
+      - master
       template: matplotlib
   matrix-org:
     synapse:
+      branches:
+      - master
       template: matrix-org
   maxbbraun:
     trump2cash:
+      branches:
+      - master
       template: maxbbraun
   mchristopher:
     PokemonGo-DesktopMap:
+      branches:
+      - master
       template: mchristopher
   mher:
     flower:
+      branches:
+      - master
       template: mher
   micahflee:
     onionshare:
+      branches:
+      - master
       template: micahflee
   midgetspy:
     Sick-Beard:
+      branches:
+      - development
       template: midgetspy
   miguelgrinberg:
     flasky:
+      branches:
+      - master
       template: miguelgrinberg
   miloyip:
     game-programmer:
+      branches:
+      - master
       template: miloyip
   minimaxir:
     big-list-of-naughty-strings:
+      branches:
+      - master
       template: minimaxir
   mininet:
     mininet:
+      branches:
+      - master
       template: mininet
   misterch0c:
     shadowbroker:
+      branches:
+      - master
       template: misterch0c
   mitmproxy:
     mitmproxy:
+      branches:
+      - master
       template: mitmproxy
   mkdocs:
     mkdocs:
+      branches:
+      - master
       template: mkdocs
   mnielsen:
     neural-networks-and-deep-learning:
+      branches:
+      - master
       template: mnielsen
   mobolic:
     facebook-sdk:
+      branches:
+      - master
       template: mobolic
   mongodb:
     mongo-python-driver:
+      branches:
+      - master
       template: mongodb
   mooz:
     percol:
+      branches:
+      - master
       template: mooz
   mopidy:
     mopidy:
+      branches:
+      - develop
       template: mopidy
   mps-youtube:
     mps-youtube:
+      branches:
+      - develop
       template: mps-youtube
-  mwaskom:
-    seaborn:
-      template: mwaskom
   n1nj4sec:
     pupy:
+      branches:
+      - master
       template: n1nj4sec
   nate-parrott:
     Flashlight:
+      branches:
+      - master
       template: nate-parrott
   networkx:
     networkx:
+      branches:
+      - master
       template: networkx
   newsapps:
     beeswithmachineguns:
+      branches:
+      - master
       template: newsapps
   nicolargo:
     glances:
+      branches:
+      - master
       template: nicolargo
   nltk:
     nltk:
+      branches:
+      - develop
       template: nltk
   noamraph:
     tqdm:
+      branches:
+      - master
       template: noamraph
   nodejs:
     node-gyp:
+      branches:
+      - master
       template: nodejs
   nryoung:
     algorithms:
+      branches:
+      - master
       template: nryoung
   numba:
     numba:
+      branches:
+      - master
       template: numba
   numenta:
     nupic:
+      branches:
+      - master
       template: numenta
   nvbn:
     thefuck:
+      branches:
+      - master
       template: nvbn
   nvdv:
     vprof:
+      branches:
+      - master
       template: nvdv
   nvie:
     rq:
+      branches:
+      - master
       template: nvie
   nylas:
     sync-engine:
+      branches:
+      - master
       template: nylas
   odoo:
     odoo:
+      branches:
+      - '10.0'
       template: odoo
   omab:
     django-social-auth:
+      branches:
+      - master
       template: omab
     python-social-auth:
+      branches:
+      - master
       template: omab
   openai:
     gym:
+      branches:
+      - master
       template: openai
     universe:
+      branches:
+      - master
       template: openai
   openpaperwork:
     paperwork:
+      branches:
+      - unstable
       template: openpaperwork
   openstack:
     nova:
+      branches:
+      - master
       template: openstack
   orakaro:
     rainbowstream:
+      branches:
+      - master
       template: orakaro
   p-e-w:
     maybe:
+      branches:
+      - master
       template: p-e-w
   pallets:
     click:
+      branches:
+      - master
       template: pallets
     flask:
+      branches:
+      - master
       template: pallets
     jinja:
+      branches:
+      - master
       template: pallets
     werkzeug:
+      branches:
+      - master
       template: pallets
   pandas-dev:
     pandas:
+      branches:
+      - master
       template: pandas-dev
   paramiko:
     paramiko:
+      branches:
+      - master
       template: paramiko
   pavelgonchar:
     colornet:
+      branches:
+      - master
       template: pavelgonchar
   pennersr:
     django-allauth:
+      branches:
+      - master
       template: pennersr
   phusion:
     baseimage-docker:
+      branches:
+      - master
       template: phusion
   pinax:
     pinax:
+      branches:
+      - master
       template: pinax
   pixie-lang:
     pixie:
+      branches:
+      - master
       template: pixie-lang
   plasma-disassembler:
     plasma:
+      branches:
+      - master
       template: plasma-disassembler
   platformio:
     platformio-core:
+      branches:
+      - develop
       template: platformio
   plotly:
     plotly.py:
+      branches:
+      - master
       template: plotly
   posativ:
     isso:
+      branches:
+      - master
       template: posativ
   powerline:
     powerline:
+      branches:
+      - develop
       template: powerline
   prakhar1989:
     Algorithms:
+      branches:
+      - master
+      template: prakhar1989
+    docker-curriculum:
+      branches:
+      - master
       template: prakhar1989
   programthink:
     zhao:
+      branches:
+      - master
       template: programthink
   pudo:
     dataset:
+      branches:
+      - master
       template: pudo
   pybrain:
     pybrain:
+      branches:
+      - master
       template: pybrain
   pydanny:
     cookiecutter-django:
+      branches:
+      - master
       template: pydanny
   pyeve:
     eve:
+      branches:
+      - master
       template: pyeve
   pyinstaller:
     pyinstaller:
+      branches:
+      - develop
       template: pyinstaller
   pymc-devs:
     pymc3:
+      branches:
+      - master
       template: pymc-devs
   pypa:
     pip:
+      branches:
+      - master
       template: pypa
     pipfile:
+      branches:
+      - master
       template: pypa
     virtualenv:
+      branches:
+      - master
       template: pypa
   python:
     cpython:
+      branches:
+      - master
       template: python
     mypy:
+      branches:
+      - master
       template: python
   python-mode:
     python-mode:
+      branches:
+      - develop
       template: python-mode
   python-pillow:
     Pillow:
+      branches:
+      - master
       template: python-pillow
   python-telegram-bot:
     python-telegram-bot:
+      branches:
+      - master
       template: python-telegram-bot
   python-visualization:
     folium:
+      branches:
+      - master
       template: python-visualization
   pytorch:
     pytorch:
+      branches:
+      - master
       template: pytorch
   quantopian:
     zipline:
+      branches:
+      - master
       template: quantopian
   qutebrowser:
     qutebrowser:
+      branches:
+      - master
       template: qutebrowser
   ranger:
     ranger:
+      branches:
+      - master
       template: ranger
   rbgirshick:
     py-faster-rcnn:
+      branches:
+      - master
       template: rbgirshick
   realpython:
     discover-flask:
+      branches:
+      - master
       template: realpython
   reddit:
     reddit:
+      branches:
+      - master
       template: reddit
   redecentralize:
     alternative-internet:
+      branches:
+      - master
       template: redecentralize
   reinderien:
     mimic:
+      branches:
+      - master
       template: reinderien
   rembo10:
     headphones:
+      branches:
+      - master
       template: rembo10
   reorx:
     httpstat:
+      branches:
+      - master
       template: reorx
   requests:
     requests:
+      branches:
+      - master
       template: requests
   reverse-shell:
     routersploit:
+      branches:
+      - master
       template: reverse-shell
   revolunet:
     sublimetext-markdown-preview:
+      branches:
+      - master
       template: revolunet
   rg3:
     youtube-dl:
+      branches:
+      - master
       template: rg3
   rhiever:
     tpot:
+      branches:
+      - master
       template: rhiever
   rolando:
     scrapy-redis:
+      branches:
+      - master
       template: rolando
   rtfd:
     readthedocs.org:
+      branches:
+      - master
       template: rtfd
   rushter:
     MLAlgorithms:
+      branches:
+      - master
       template: rushter
     data-science-blogs:
+      branches:
+      - master
       template: rushter
   ryankiros:
     neural-storyteller:
+      branches:
+      - master
       template: ryankiros
   s3tools:
     s3cmd:
+      branches:
+      - master
       template: s3tools
   saltstack:
     salt:
+      branches:
+      - develop
       template: saltstack
   samshadwell:
     TrumpScript:
+      branches:
+      - master
       template: samshadwell
   samuelclay:
     NewsBlur:
+      branches:
+      - master
       template: samuelclay
   samuraisam:
     pyapns:
+      branches:
+      - master
       template: samuraisam
   schematics:
     schematics:
+      branches:
+      - master
       template: schematics
   schollz:
     howmanypeoplearearound:
+      branches:
+      - master
       template: schollz
   scikit-learn:
     scikit-learn:
+      branches:
+      - master
       template: scikit-learn
   scipy:
     scipy:
+      branches:
+      - master
       template: scipy
-  scrapinghub:
-    portia:
-      template: scrapinghub
   scrapy:
     scrapy:
+      branches:
+      - master
       template: scrapy
   sdispater:
     pendulum:
+      branches:
+      - master
       template: sdispater
   seatgeek:
     fuzzywuzzy:
+      branches:
+      - master
       template: seatgeek
   shadowsocks:
     shadowsocks:
+      branches:
+      - rm
       template: shadowsocks
   sightmachine:
     SimpleCV:
+      branches:
+      - master
       template: sightmachine
-  simon-weber:
-    gmusicapi:
-      template: simon-weber
   sivel:
     speedtest-cli:
+      branches:
+      - master
       template: sivel
   sixohsix:
     twitter:
+      branches:
+      - master
       template: sixohsix
   sloria:
     TextBlob:
+      branches:
+      - dev
       template: sloria
   snare:
     voltron:
+      branches:
+      - master
       template: snare
   soimort:
     you-get:
+      branches:
+      - develop
       template: soimort
   sokolovstas:
     SublimeWebInspector:
+      branches:
+      - ST3
       template: sokolovstas
   somerandomdude:
     Iconic:
+      branches:
+      - master
       template: somerandomdude
   songrotek:
     Deep-Learning-Papers-Reading-Roadmap:
+      branches:
+      - master
       template: songrotek
   soumith:
     convnet-benchmarks:
+      branches:
+      - master
       template: soumith
   sovereign:
     sovereign:
+      branches:
+      - master
       template: sovereign
   spadgos:
     sublime-jsdocs:
+      branches:
+      - master
       template: spadgos
   spinnaker:
     spinnaker:
+      branches:
+      - master
       template: spinnaker
   spotify:
     luigi:
+      branches:
+      - master
       template: spotify
   spyder-ide:
     spyder:
+      branches:
+      - master
       template: spyder-ide
   sqlmapproject:
     sqlmap:
+      branches:
+      - master
       template: sqlmapproject
   sripathikrishnan:
     redis-rdb-tools:
+      branches:
+      - master
       template: sripathikrishnan
   sshwsfc:
     xadmin:
+      branches:
+      - master
       template: sshwsfc
   stamparm:
     maltrail:
+      branches:
+      - master
       template: stamparm
   statsmodels:
     statsmodels:
+      branches:
+      - master
       template: statsmodels
   stephenmcd:
     mezzanine:
+      branches:
+      - master
       template: stephenmcd
   sublimehq:
     Packages:
+      branches:
+      - master
       template: sublimehq
   sylnsfar:
     qrcode:
+      branches:
+      - master
       template: sylnsfar
   sympy:
     sympy:
+      branches:
+      - master
       template: sympy
   taigaio:
     taiga-back:
+      branches:
+      - master
       template: taigaio
   tangqiaoboy:
     iOSBlogCN:
+      branches:
+      - master
       template: tangqiaoboy
   taobao:
     nginx-book:
+      branches:
+      - master
       template: taobao
   tensorflow:
     models:
+      branches:
+      - master
       template: tensorflow
     skflow:
+      branches:
+      - master
       template: tensorflow
   tflearn:
     tflearn:
+      branches:
+      - master
       template: tflearn
   tgalal:
     yowsup:
+      branches:
+      - master
       template: tgalal
   thearn:
     webcam-pulse-detector:
+      branches:
+      - no_openmdao
       template: thearn
   thumbor:
     thumbor:
+      branches:
+      - master
       template: thumbor
   timgrossmann:
     InstaPy:
+      branches:
+      - master
       template: timgrossmann
   timothycrosley:
     hug:
+      branches:
+      - develop
       template: timothycrosley
   tornadoweb:
     tornado:
+      branches:
+      - master
       template: tornadoweb
   tqdm:
     tqdm:
+      branches:
+      - master
       template: tqdm
   trustedsec:
     social-engineer-toolkit:
+      branches:
+      - master
       template: trustedsec
   tschellenbach:
     Stream-Framework:
+      branches:
+      - master
       template: tschellenbach
   tweepy:
     tweepy:
+      branches:
+      - master
       template: tweepy
   twisted:
     twisted:
+      branches:
+      - trunk
       template: twisted
   ujjwalkarn:
     DataSciencePython:
+      branches:
+      - master
       template: ujjwalkarn
+  viewfinderco:
+    viewfinder:
+      branches:
+      - master
+      template: viewfinderco
   vinta:
     awesome-python:
+      branches:
+      - master
       template: vinta
   waditu:
     tushare:
+      branches:
+      - master
       template: waditu
   wagtail:
     wagtail:
+      branches:
+      - master
       template: wagtail
   wal-e:
     wal-e:
+      branches:
+      - master
       template: wal-e
   wbond:
     package_control:
+      branches:
+      - master
       template: wbond
   webpy:
     webpy:
+      branches:
+      - master
       template: webpy
   what-studio:
     profiling:
+      branches:
+      - master
       template: what-studio
   whtsky:
     WeRoBot:
+      branches:
+      - develop
       template: whtsky
   wifiphisher:
     wifiphisher:
+      branches:
+      - master
       template: wifiphisher
   wireservice:
     csvkit:
+      branches:
+      - master
       template: wireservice
   worldveil:
     dejavu:
+      branches:
+      - master
       template: worldveil
   wrobstory:
     vincent:
+      branches:
+      - master
       template: wrobstory
   wting:
     autojump:
+      branches:
+      - master
       template: wting
   wuub:
     SublimeREPL:
+      branches:
+      - master
       template: wuub
   xchaoinfo:
     fuck-login:
+      branches:
+      - master
       template: xchaoinfo
   xiyouMc:
     WebHubBot:
+      branches:
+      - master
       template: xiyouMc
   xonsh:
     xonsh:
+      branches:
+      - master
       template: xonsh
   yahoo:
     open_nsfw:
+      branches:
+      - master
       template: yahoo
   yandex:
     gixy:
+      branches:
+      - master
       template: yandex
   yenchenlin:
     DeepLearningFlappyBird:
+      branches:
+      - master
       template: yenchenlin
   yhat:
     ggpy:
+      branches:
+      - master
       template: yhat
   yidao620c:
     python3-cookbook:
+      branches:
+      - master
       template: yidao620c
   youfou:
     wxpy:
+      branches:
+      - master
       template: youfou
   ytisf:
     theZoo:
+      branches:
+      - master
       template: ytisf
   yunjey:
     pytorch-tutorial:
+      branches:
+      - master
       template: yunjey
+  zsdonghao:
+    tensorlayer:
+      branches:
+      - master
+      template: zsdonghao
   zulip:
     zulip:
+      branches:
+      - master
       template: zulip
   zzzeek:
     sqlalchemy:
+      branches:
+      - master
       template: zzzeek
