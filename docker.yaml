@@ -1,0 +1,226 @@
+project-templates:
+  docker:
+    branches:
+    - master
+    gitweb: http://github.com/docker/%(name)s/commit/%%(sha)s
+    uri: http://github.com/docker/%(name)s
+projects:
+  docker:
+    description: The docker Github organization
+    repos:
+      bender:
+        template: docker
+      birthdaysite:
+        template: docker
+      cli:
+        template: docker
+      code-of-conduct:
+        template: docker
+      community:
+        template: docker
+      communitytools-image2docker-linux:
+        template: docker
+      communitytools-image2docker-win:
+        template: docker
+      compliance:
+        template: docker
+      compose:
+        template: docker
+      dceu_tutorials:
+        template: docker
+      dctx:
+        template: docker
+      dcus-hol-2016:
+        template: docker
+      dcus-hol-2017:
+        template: docker
+      distribution:
+        template: docker
+      distribution-library-image:
+        template: docker
+      dnsserver:
+        template: docker
+      docker-bb:
+        template: docker
+      docker-bench-security:
+        template: docker
+      docker-birthday-3:
+        template: docker
+      docker-ce:
+        template: docker
+      docker-ce-packaging:
+        template: docker
+      docker-credential-helpers:
+        template: docker
+      docker-install:
+        template: docker
+      docker-machine-driver-ci-test:
+        template: docker
+      docker-network:
+        template: docker
+      docker-py:
+        template: docker
+      docker-registry:
+        template: docker
+      docker-snap:
+        template: docker
+      docker-status:
+        branches:
+        - proto-master
+        template: docker
+      docker-tutorial:
+        template: docker
+      docker.github.io:
+        template: docker
+      dockercloud-agent:
+        template: docker
+      dockercloud-authorizedkeys:
+        template: docker
+      dockercloud-cli:
+        template: docker
+      dockercloud-events:
+        branches:
+        - staging
+        template: docker
+      dockercloud-haproxy:
+        template: docker
+      dockercloud-hello-world:
+        template: docker
+      dockercloud-network-daemon:
+        template: docker
+      dockercloud-node:
+        template: docker
+      dockercloud-quickstart-go:
+        template: docker
+      dockercloud-quickstart-python:
+        template: docker
+      dockercraft:
+        template: docker
+      dockerlite:
+        template: docker
+      engine-api:
+        template: docker
+      for-aws:
+        template: docker
+      for-azure:
+        template: docker
+      for-linux:
+        template: docker
+      for-mac:
+        template: docker
+      for-win:
+        template: docker
+      global-hack-day-3:
+        template: docker
+      go:
+        template: docker
+      go-connections:
+        template: docker
+      go-dockercloud:
+        template: docker
+      go-events:
+        template: docker
+      go-healthcheck:
+        template: docker
+      go-metrics:
+        template: docker
+      go-p9p:
+        template: docker
+      go-plugins-helpers:
+        template: docker
+      go-redis-server:
+        template: docker
+      go-units:
+        template: docker
+      golang-cross:
+        template: docker
+      golem:
+        template: docker
+      gordon:
+        template: docker
+      gordon-bot:
+        template: docker
+      hub-feedback:
+        template: docker
+      infrakit:
+        template: docker
+      infrakit.aws:
+        template: docker
+      infrakit.digitalocean:
+        template: docker
+      infrakit.gcp:
+        template: docker
+      irc-minutes:
+        template: docker
+      jenkins-pipeline-scripts:
+        template: docker
+      jira-test:
+        template: docker
+      kitematic:
+        template: docker
+      labs:
+        template: docker
+      leadership:
+        template: docker
+      leeroy:
+        template: docker
+      libchan:
+        template: docker
+      libcompose:
+        template: docker
+      libcontainer:
+        template: docker
+      libentitlement:
+        template: docker
+      libkv:
+        template: docker
+      libnetwork:
+        template: docker
+      libtrust:
+        template: docker
+      machine:
+        template: docker
+      markdownlint:
+        template: docker
+      migrator:
+        template: docker
+      notary:
+        template: docker
+      notary-official-images:
+        template: docker
+      notary-server-image:
+        template: docker
+      notary-signer-image:
+        template: docker
+      opensource:
+        template: docker
+      openstack-docker:
+        template: docker
+      openstack-heat-docker:
+        template: docker
+      pulpo:
+        template: docker
+      python-dockercloud:
+        template: docker
+      spdystream:
+        template: docker
+      swarm:
+        template: docker
+      swarm-frontends:
+        template: docker
+      swarm-library-image:
+        template: docker
+      swarm-microservice-demo-v1:
+        template: docker
+      swarmkit:
+        template: docker
+      toolbox:
+        template: docker
+      ucp_lab:
+        template: docker
+      v1.10-migrator:
+        template: docker
+      vol-test:
+        template: docker
+      whalesay:
+        template: docker

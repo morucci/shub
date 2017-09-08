@@ -1,0 +1,132 @@
+project-templates:
+  ansible:
+    branches:
+    - master
+    gitweb: http://github.com/ansible/%(name)s/commit/%%(sha)s
+    uri: http://github.com/ansible/%(name)s
+projects:
+  ansible:
+    description: The ansible Github organization
+    repos:
+      ambassadors:
+        template: ansible
+      ansible:
+        branches:
+        - devel
+        template: ansible
+      ansible-blog-examples:
+        template: ansible
+      ansible-container:
+        branches:
+        - develop
+        template: ansible
+      ansible-container-demo:
+        template: ansible
+      ansible-container-examples:
+        template: ansible
+      ansible-demo-operations:
+        template: ansible
+      ansible-docker-base:
+        template: ansible
+      ansible-doctor:
+        template: ansible
+      ansible-examples:
+        template: ansible
+      ansible-for-rubyists:
+        template: ansible
+      ansible-inventory-backport:
+        template: ansible
+      ansible-kubernetes-modules:
+        template: ansible
+      ansible-lockdown:
+        template: ansible
+      ansible-modules-core:
+        branches:
+        - devel
+        template: ansible
+      ansible-modules-extras:
+        branches:
+        - devel
+        template: ansible
+      ansible-tower-samples:
+        template: ansible
+      ansible-tower-splunk-framework:
+        template: ansible
+      ansible.github.com:
+        template: ansible
+      ansible.github.io:
+        template: ansible
+      ansible_tower_client_ruby:
+        template: ansible
+      ansibullbot:
+        template: ansible
+      ansiconv:
+        template: ansible
+      asgi_amqp:
+        template: ansible
+      autoscaling-blog:
+        template: ansible
+      azure-testing:
+        template: ansible
+      community:
+        template: ansible
+      dci-ansible-testrunner:
+        template: ansible
+      dci-partner-ansible:
+        template: ansible
+      django-gulp-nginx:
+        template: ansible
+      django-jsonfield:
+        branches:
+        - tower_0.9.12
+        template: ansible
+      django-qsstats-magic:
+        template: ansible
+      django-template:
+        template: ansible
+      dm.xmlsec.binding:
+        template: ansible
+      docker-testing:
+        template: ansible
+      functools-total-ordering-monkeypatch:
+        template: ansible
+      galaxy:
+        branches:
+        - develop
+        template: ansible
+      galaxy-docs:
+        template: ansible
+      galaxy-issues:
+        template: ansible
+      gevent-socketio:
+        branches:
+        - tower_0.3.6
+        template: ansible
+      immutablish-deploys:
+        template: ansible
+      lightbulb:
+        template: ansible
+      nginx-container:
+        template: ansible
+      openstack-ci:
+        template: ansible
+      proposals:
+        template: ansible
+      python-social-auth:
+        template: ansible
+      role-install-gcloud:
+        template: ansible
+      role-local-registry:
+        template: ansible
+      role-secure-docker-daemon:
+        template: ansible
+      tacacs_plus:
+        template: ansible
+      test-network-modules:
+        branches:
+        - devel
+        template: ansible
+      tower-cli:
+        template: ansible
+      tower-example:
+        template: ansible

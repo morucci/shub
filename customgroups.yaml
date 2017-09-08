@@ -1,0 +1,12 @@
+---
+groups:
+  docker:
+    description: Members of Docker's domains
+    domains:
+    - docker.com
+    emails: {}
+  ansible:
+    description: Members of Ansible's domains
+    domains:
+    - ansible.com
+    emails: {}

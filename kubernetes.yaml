@@ -1,0 +1,112 @@
+project-templates:
+  kubernetes:
+    branches:
+    - master
+    gitweb: http://github.com/kubernetes/%(name)s/commit/%%(sha)s
+    uri: http://github.com/kubernetes/%(name)s
+projects:
+  kubernetes:
+    description: The kubernetes Github organization
+    repos:
+      api:
+        template: kubernetes
+      apiextensions-apiserver:
+        template: kubernetes
+      apimachinery:
+        template: kubernetes
+      apiserver:
+        template: kubernetes
+      autoscaler:
+        template: kubernetes
+      charts:
+        template: kubernetes
+      client-go:
+        template: kubernetes
+      cluster-registry:
+        template: kubernetes
+      code-generator:
+        template: kubernetes
+      community:
+        template: kubernetes
+      contrib:
+        template: kubernetes
+      dashboard:
+        template: kubernetes
+      dns:
+        template: kubernetes
+      examples:
+        template: kubernetes
+      features:
+        template: kubernetes
+      frakti:
+        template: kubernetes
+      gengo:
+        template: kubernetes
+      git-sync:
+        template: kubernetes
+      heapster:
+        template: kubernetes
+      helm:
+        template: kubernetes
+      ingress:
+        template: kubernetes
+      k8s.io:
+        template: kubernetes
+      kompose:
+        template: kubernetes
+      kops:
+        template: kubernetes
+      kube-aggregator:
+        template: kubernetes
+      kube-deploy:
+        template: kubernetes
+      kube-openapi:
+        template: kubernetes
+      kube-state-metrics:
+        template: kubernetes
+      kube-ui:
+        template: kubernetes
+      kubeadm:
+        template: kubernetes
+      kubectl:
+        template: kubernetes
+      kubernetes:
+        template: kubernetes
+      kubernetes-anywhere:
+        template: kubernetes
+      kubernetes-bootcamp:
+        branches:
+        - gh-pages
+        template: kubernetes
+      kubernetes-docs-cn:
+        branches:
+        - release-1.1-cn
+        template: kubernetes
+      kubernetes-template-project:
+        template: kubernetes
+      kubernetes.github.io:
+        template: kubernetes
+      md-check:
+        template: kubernetes
+      metrics:
+        template: kubernetes
+      minikube:
+        template: kubernetes
+      node-problem-detector:
+        template: kubernetes
+      perf-tests:
+        template: kubernetes
+      release:
+        template: kubernetes
+      repo-infra:
+        template: kubernetes
+      sample-apiserver:
+        template: kubernetes
+      sig-release:
+        template: kubernetes
+      steering:
+        template: kubernetes
+      test-infra:
+        template: kubernetes
+      utils:
+        template: kubernetes

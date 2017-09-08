@@ -1,0 +1,334 @@
+project-templates:
+  elastic:
+    branches:
+    - master
+    gitweb: http://github.com/elastic/%(name)s/commit/%%(sha)s
+    uri: http://github.com/elastic/%(name)s
+projects:
+  elastic:
+    description: The elastic Github organization
+    repos:
+      Example-Watches:
+        template: elastic
+      ansible-aws-test:
+        template: elastic
+      ansible-beats:
+        template: elastic
+      ansible-elasticsearch:
+        template: elastic
+      ansible-elasticsearch-example:
+        template: elastic
+      apm-agent-nodejs:
+        template: elastic
+      apm-agent-python:
+        template: elastic
+      apm-nodejs-http-client:
+        template: elastic
+      apm-server:
+        template: elastic
+      attached-artifact-enforcer:
+        template: elastic
+      azure-marketplace:
+        template: elastic
+      azure-marketplace-examples:
+        template: elastic
+      babel-preset-kibana:
+        template: elastic
+      beats:
+        template: elastic
+      beats-dashboards:
+        template: elastic
+      beats-docker:
+        template: elastic
+      beats-packer:
+        template: elastic
+      beats-tester:
+        template: elastic
+      bower-elasticsearch-js:
+        template: elastic
+      ci:
+        template: elastic
+      cookbook-elasticsearch:
+        template: elastic
+      curator:
+        template: elastic
+      datemath-js:
+        template: elastic
+      #docs:
+      #  template: elastic
+      docs-tools:
+        template: elastic
+      elasticboard:
+        template: elastic
+      elasticsearch:
+        template: elastic
+      elasticsearch-alpine-base:
+        template: elastic
+      elasticsearch-analysis-icu:
+        template: elastic
+      elasticsearch-analysis-kuromoji:
+        template: elastic
+      elasticsearch-analysis-phonetic:
+        template: elastic
+      elasticsearch-analysis-smartcn:
+        template: elastic
+      elasticsearch-analysis-stempel:
+        template: elastic
+      elasticsearch-cloud-aws:
+        template: elastic
+      elasticsearch-cloud-azure:
+        template: elastic
+      elasticsearch-cloud-gce:
+        template: elastic
+      elasticsearch-definitive-guide:
+        template: elastic
+      elasticsearch-docker:
+        template: elastic
+      elasticsearch-dsl-py:
+        template: elastic
+      elasticsearch-groovy:
+        template: elastic
+      elasticsearch-hadoop:
+        template: elastic
+      elasticsearch-hdfs:
+        template: elastic
+      elasticsearch-js:
+        template: elastic
+      elasticsearch-lang-groovy:
+        template: elastic
+      elasticsearch-lang-javascript:
+        template: elastic
+      elasticsearch-lang-mvel:
+        template: elastic
+      elasticsearch-lang-python:
+        template: elastic
+      elasticsearch-mapper-attachments:
+        template: elastic
+      elasticsearch-metrics-reporter-java:
+        template: elastic
+      elasticsearch-migration:
+        template: elastic
+      elasticsearch-net:
+        template: elastic
+      elasticsearch-net-example:
+        template: elastic
+      elasticsearch-parent:
+        template: elastic
+      elasticsearch-perl:
+        template: elastic
+      elasticsearch-perl-compat:
+        template: elastic
+      elasticsearch-php:
+        template: elastic
+      elasticsearch-plugins-script:
+        template: elastic
+      elasticsearch-py:
+        template: elastic
+      elasticsearch-py-async:
+        template: elastic
+      elasticsearch-rails:
+        template: elastic
+      elasticsearch-river-couchdb:
+        template: elastic
+      elasticsearch-river-rabbitmq:
+        template: elastic
+      elasticsearch-river-twitter:
+        template: elastic
+      elasticsearch-river-wikipedia:
+        template: elastic
+      elasticsearch-ruby:
+        template: elastic
+      elasticsearch-servicewrapper:
+        template: elastic
+      elasticsearch-support-diagnostics:
+        template: elastic
+      elasticsearch-tla:
+        template: elastic
+      elasticsearch-transport-memcached:
+        template: elastic
+      elasticsearch-transport-thrift:
+        template: elastic
+      elasticsearch-transport-wares:
+        template: elastic
+      elasticsearch-watcher-js:
+        template: elastic
+      elasticsearch-watcher-net:
+        template: elastic
+      elasticsearch-watcher-php:
+        template: elastic
+      elasticsearch-watcher-py:
+        template: elastic
+      elasticsearch-x-pack-php:
+        template: elastic
+      elasticsearch-x-pack-py:
+        template: elastic
+      elasticsearch-x-pack-ruby:
+        template: elastic
+      elk-index-size-tests:
+        template: elastic
+      engineering:
+        template: elastic
+      es2unix:
+        template: elastic
+      eslint-config-kibana:
+        branches:
+        - moved
+        template: elastic
+      eslint-import-resolver-kibana:
+        template: elastic
+      esqueue:
+        branches:
+        - deprecated
+        template: elastic
+      esvm:
+        template: elastic
+      esvm-snapshot-builder:
+        template: elastic
+      examples:
+        template: elastic
+      found-shield-example:
+        template: elastic
+      generator-kibana-plugin:
+        template: elastic
+      go-elasticsearch:
+        template: elastic
+      go-libaudit:
+        template: elastic
+      go-lumber:
+        template: elastic
+      go-ucfg:
+        template: elastic
+      google-sheets-add-on:
+        template: elastic
+      gradle-project-attachment-plugin:
+        template: elastic
+      grunt-esvm:
+        template: elastic
+      hipio:
+        template: elastic
+      hkoscon16:
+        template: elastic
+      hunspell:
+        template: elastic
+      jarvis:
+        template: elastic
+      jasper:
+        template: elastic
+      java-lumber:
+        template: elastic
+      jna-build:
+        template: elastic
+      jrmonitor:
+        template: elastic
+      kibana:
+        template: elastic
+      kibana-docker:
+        template: elastic
+      kibana-executor-service:
+        template: elastic
+      kibana-phoenix-plugin:
+        template: elastic
+      kibana-plugin-helpers:
+        template: elastic
+      kibana-ubuntu-base:
+        template: elastic
+      kibana-ui-framework:
+        template: elastic
+      lca2016presentation:
+        template: elastic
+      libbeat:
+        template: elastic
+      libesvm:
+        template: elastic
+      logstash:
+        template: elastic
+      logstash-alpine-base:
+        template: elastic
+      logstash-benchmark-tools:
+        template: elastic
+      logstash-cloud-benchmarker:
+        template: elastic
+      logstash-contrib:
+        template: elastic
+      logstash-devutils:
+        template: elastic
+      logstash-docker:
+        template: elastic
+      logstash-docs:
+        template: elastic
+      logstash-forwarder:
+        template: elastic
+      logstash-performance-testing:
+        template: elastic
+      logstash-triage:
+        branches:
+        - gh-pages
+        template: elastic
+      makelogs:
+        template: elastic
+      marketing-analytics:
+        template: elastic
+      mocksocket:
+        template: elastic
+      node-crypto:
+        template: elastic
+      node-scrollsearch:
+        template: elastic
+      opbeans:
+        template: elastic
+      opensourcesoftware:
+        template: elastic
+      puppet-crate:
+        template: elastic
+      puppet-elasticsearch:
+        template: elastic
+      puppet-kibana:
+        template: elastic
+      puppet-logstash:
+        template: elastic
+      puppet-logstash-reporter:
+        template: elastic
+      puppet-logstashforwarder:
+        template: elastic
+      rally:
+        template: elastic
+      rally-eventdata-track:
+        template: elastic
+      rally-results:
+        template: elastic
+      rally-teams:
+        template: elastic
+      rally-tracks:
+        template: elastic
+      rspec-sequencing:
+        template: elastic
+      ruby-lumberjack:
+        template: elastic
+      runbld:
+        template: elastic
+      securemock:
+        template: elastic
+      securesm:
+        template: elastic
+      sense:
+        template: elastic
+      shield-custom-realm-example:
+        template: elastic
+      stack-docker:
+        template: elastic
+      stream2es:
+        template: elastic
+      tealess:
+        template: elastic
+      template-kibana-plugin:
+        template: elastic
+      thor-visualizations:
+        template: elastic
+      timelion:
+        template: elastic
+      webpack-directory-name-as-main:
+        template: elastic
+      windows-installers:
+        template: elastic
+      xavier:
+        template: elastic

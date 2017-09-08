@@ -1,0 +1,28 @@
+project-templates:
+  mariaDB:
+    branches:
+    - master
+    gitweb: http://github.com/mariaDB/%(name)s/commit/%%(sha)s
+    uri: http://github.com/mariaDB/%(name)s
+projects:
+  mariaDB:
+    description: The mariaDB Github organization
+    repos:
+      connector-c-docs:
+        template: mariaDB
+      mariadb-connector-c:
+        template: mariaDB
+      mariadb-connector-j:
+        template: mariaDB
+      mariadb-connector-odbc:
+        template: mariaDB
+      mariadb.org-tools:
+        template: mariaDB
+      mergetrees:
+        branches:
+        - merge-xtradb-5.5
+        template: mariaDB
+      server:
+        branches:
+        - '10.2'
+        template: mariaDB

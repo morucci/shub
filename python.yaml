@@ -1,0 +1,124 @@
+project-templates:
+  python:
+    branches:
+    - master
+    gitweb: http://github.com/python/%(name)s/commit/%%(sha)s
+    uri: http://github.com/python/%(name)s
+projects:
+  python:
+    description: The python Github organization
+    repos:
+      asyncio:
+        branches:
+        - redirect
+        template: python
+      bedevere:
+        template: python
+      buildmaster-config:
+        template: python
+      community-starter-kit:
+        template: python
+      consul-operator:
+        template: python
+      core-workflow:
+        template: python
+      cpython:
+        template: python
+      cpython-bin-deps:
+        template: python
+      cpython-source-deps:
+        template: python
+      devguide:
+        template: python
+      devinabox:
+        template: python
+      docker-bpo:
+        template: python
+      docsbuild-scripts:
+        template: python
+      historic-python-materials:
+        template: python
+      mypy:
+        template: python
+      overload-sig:
+        template: python
+      peps:
+        template: python
+      performance:
+        template: python
+      planet:
+        template: python
+      psf-ca:
+        template: python
+      psf-chef:
+        template: python
+      psf-community-resources:
+        template: python
+      psf-docs:
+        template: python
+      psf-election:
+        template: python
+      psf-fastly:
+        template: python
+      psf-infra-meta:
+        template: python
+      psf-packages:
+        template: python
+      psf-salt:
+        template: python
+      psfmemberdotorg:
+        template: python
+      psfoutreach:
+        template: python
+      pycon-code-of-conduct:
+        template: python
+      pypi-cdn-log-archiver:
+        template: python
+      pypi-docs-proxy:
+        template: python
+      pypi-infra:
+        template: python
+      pypi-salt:
+        template: python
+      python-docs-bn-in:
+        template: python
+      python-docs-fr:
+        branches:
+        - '3.6'
+        template: python
+      python-docs-hu:
+        branches:
+        - '3.6'
+        template: python
+      python-docs-ja:
+        branches:
+        - '3.6'
+        template: python
+      python-docs-pt-br:
+        template: python
+      python-docs-theme:
+        template: python
+      pythondotorg:
+        template: python
+      pythonineducation.org:
+        template: python
+      pythontestdotnet:
+        template: python
+      raspberryio:
+        template: python
+      redistributor-guide:
+        template: python
+      release-tools:
+        template: python
+      speed.python.org:
+        template: python
+      the-knights-who-say-ni:
+        template: python
+      tlsproxy:
+        template: python
+      typed_ast:
+        template: python
+      typeshed:
+        template: python
+      typing:
+        template: python

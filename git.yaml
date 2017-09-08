@@ -1,0 +1,28 @@
+project-templates:
+  git:
+    branches:
+    - master
+    gitweb: http://github.com/git/%(name)s/commit/%%(sha)s
+    uri: http://github.com/git/%(name)s
+projects:
+  git:
+    description: The git Github organization
+    repos:
+      git:
+        template: git
+      git-reference:
+        branches:
+        - gh-pages
+        template: git
+      git-scm.com:
+        template: git
+      git.github.io:
+        template: git
+      gitscm-old:
+        template: git
+      htmldocs:
+        branches:
+        - gh-pages
+        template: git
+      sha1collisiondetection:
+        template: git
