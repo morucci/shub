@@ -1,0 +1,76 @@
+project-templates:
+  taigaio:
+    branches:
+    - master
+    gitweb: http://github.com/taigaio/%(name)s/commit/%%(sha)s
+    uri: http://github.com/taigaio/%(name)s
+projects:
+  taigaio:
+    description: The taigaio Github organization
+    repos:
+      code-of-conduct:
+        template: taigaio
+      redmine-migrator:
+        template: taigaio
+      taiga-back:
+        template: taigaio
+      taiga-blog:
+        branches:
+        - main
+        template: taigaio
+      taiga-contrib-cookie-warning:
+        template: taigaio
+      taiga-contrib-github-auth:
+        template: taigaio
+      taiga-contrib-gitlab-auth:
+        template: taigaio
+      taiga-contrib-gogs:
+        template: taigaio
+      taiga-contrib-hall:
+        template: taigaio
+      taiga-contrib-hipchat:
+        template: taigaio
+      taiga-contrib-letschat:
+        template: taigaio
+      taiga-contrib-mailchimp-subscription:
+        template: taigaio
+      taiga-contrib-mailjet-subscription:
+        template: taigaio
+      taiga-contrib-profit-well:
+        template: taigaio
+      taiga-contrib-sendinblue-subscription:
+        template: taigaio
+      taiga-contrib-slack:
+        template: taigaio
+      taiga-contrib-subscriptions:
+        template: taigaio
+      taiga-design:
+        template: taigaio
+      taiga-doc:
+        template: taigaio
+      taiga-electron:
+        template: taigaio
+      taiga-events:
+        template: taigaio
+      taiga-events-old:
+        template: taigaio
+      taiga-feedback:
+        template: taigaio
+      taiga-front:
+        template: taigaio
+      taiga-front-dist:
+        template: taigaio
+      taiga-front-old:
+        template: taigaio
+      taiga-importer-api-client:
+        template: taigaio
+      taiga-java-importer-example:
+        template: taigaio
+      taiga-ncurses:
+        template: taigaio
+      taiga-scripts:
+        template: taigaio
+      taiga-support:
+        template: taigaio
+      taiga-vagrant:
+        template: taigaio
