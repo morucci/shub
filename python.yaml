@@ -66,8 +66,6 @@ projects:
         template: python
       psf-salt:
         template: python
-      psfmemberdotorg:
-        template: python
       psfoutreach:
         template: python
       pycon-code-of-conduct:
