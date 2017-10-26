@@ -10,3 +10,8 @@ groups:
     domains:
     - ansible.com
     emails: {}
+  RedHat:
+    description: Members of Red Hat's domains
+    domains:
+    - redhat.com
+    emails: {}
