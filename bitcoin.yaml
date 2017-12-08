@@ -1,0 +1,16 @@
+project-templates:
+  bitcoin:
+    branches:
+    - master
+    gitweb: http://github.com/bitcoin/%(name)s/commit/%%(sha)s
+    uri: http://github.com/bitcoin/%(name)s
+projects:
+  bitcoin:
+    description: The bitcoin Github organization
+    repos:
+      bips:
+        template: bitcoin
+      bitcoin:
+        template: bitcoin
+      libblkmaker:
+        template: bitcoin
